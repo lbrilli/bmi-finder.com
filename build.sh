@@ -14,63 +14,63 @@ do
     echo "Processing $f into ${f/.php/$html}..";
 done
 
-#Copy all .htaccess files
-for f in *.htaccess; 
+#Copy all folders
+for d in *; 
 do
-    cat $f > "$DEST/$f";
-    echo "Processing $f file..";
+    cat $d > "$DEST/$d";
+    echo "Processing $d folder..";
 done
 
-#Copy all PNG files
-for f in *.png; 
-do
-    cat $f > "$DEST/$f";
-    echo "Processing $f file..";
-done
+# #Copy all PNG files
+# for f in *.png; 
+# do
+#     cat $f > "$DEST/$f";
+#     echo "Processing $f file..";
+# done
 
-echo "Process complete." ;
+# echo "Process complete." ;
 
-#Copy all .xml files
-for f in *.xml; 
-do
-    cat $f > "$DEST/$f";
-    echo "Processing $f file..";
-done
+# #Copy all .xml files
+# for f in *.xml; 
+# do
+#     cat $f > "$DEST/$f";
+#     echo "Processing $f file..";
+# done
 
-echo "Process complete." ;
+# echo "Process complete." ;
 
-#Copy all .ico files
-for f in *.ico; 
-do
-    cat $f > "$DEST/$f";
-    echo "Processing $f file..";
-done
+# #Copy all .ico files
+# for f in *.ico; 
+# do
+#     cat $f > "$DEST/$f";
+#     echo "Processing $f file..";
+# done
 
-echo "Process complete." ;
+# echo "Process complete." ;
 
-#Copy all .txt files
-for f in *.txt; 
-do
-    cat $f > "$DEST/$f";
-    echo "Processing $f file..";
-done
+# #Copy all .txt files
+# for f in *.txt; 
+# do
+#     cat $f > "$DEST/$f";
+#     echo "Processing $f file..";
+# done
 
-echo "Process complete." ;
+# echo "Process complete." ;
 
-#Copy all .svg files
-for f in *.svg; 
-do
-    cat $f > "$DEST/$f";
-    echo "Processing $f file..";
-done
+# #Copy all .svg files
+# for f in *.svg; 
+# do
+#     cat $f > "$DEST/$f";
+#     echo "Processing $f file..";
+# done
 
-echo "Process complete." ;
+# echo "Process complete." ;
 
-#Copy all .webmanifest files
-for f in *.webmanifest; 
-do
-    cat $f > "$DEST/$f";
-    echo "Processing $f file..";
-done
+# #Copy all .webmanifest files
+# for f in *.webmanifest; 
+# do
+#     cat $f > "$DEST/$f";
+#     echo "Processing $f file..";
+# done
 
-echo "Process complete." ;
+# echo "Process complete." ;
