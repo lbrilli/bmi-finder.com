@@ -23,7 +23,7 @@
 	$host = "https://www.bmi-finder.com/";
 	$websitename = "BMI Calculator - Calculate BMI with your height and weight";
 	$websitename_short = "BMI Calculator"; 
-	$description = "Calculate your Body Mass Index using your height and weight using this free online calculator. Find our your BMI using either standard or metric measurements.";
+	$description = "Calculate your Body Mass Index using your height and weight using this free online calculator. Find our your BMI using either imperial or metric measurements.";
 	$keywords = "bmi calculator, calculate bmi, bmi finder, bmi";
 	date_default_timezone_set("America/Los_Angeles");
 	
