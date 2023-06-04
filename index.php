@@ -196,19 +196,28 @@
 						<!-- This is where your 300x250 top ad code from Adsense goes -->
 					</div>
 					<div id="tool">
-					<h1>BMI Calculator</h1>
+
+					<p>Select Imperial or Metric Units of Measure</p>
+		
+					<input type="radio" id="metricunits" name="metric" value="metric" checked="checked">
+					<label for="metricunits">Metric</label>
+					<input type="radio" id="imperialunits" name="imperial" value="imperial">
+					<label for="imperialunits">Imperial</label><br>
 
 						<!-- Option for providing height 
 							and weight to the user-->
-						<p>Height (in cm)</p>
+						<p>Height (in cm or inches)</p>
 
 						<input type="text" id="height">
 
-						<p>Weight (in kg)</p>
+						<p>Weight (in kg or pounds)</p>
 
 						<input type="text" id="weight">
 
 						<button id="btn">Calculate</button>
+
+						<br>
+						<br>
 
 						<div id="result"></div>
 						
@@ -222,7 +231,11 @@
 								};
 								
 								function calculateBMI() {
-								
+
+									/*Checking for imperial or metric calculation*/
+									var imperial = document.getElementById("imperial");
+									var metric = document.getElementById("metric");
+
 									/* Getting input from user into height variable.
 									Input is string so typecasting is necessary. */
 									let height = parseInt(document
@@ -244,6 +257,21 @@
 										result.innerHTML = "Provide a valid Weight!";
 								
 									// If both input is valid, calculate the bmi
+
+									else if (imperial.checked)
+										let bmi = (weight / (height * height)) * 703
+
+										// Dividing as per the bmi conditions
+										if (bmi < 18.6) result.innerHTML =
+											`Under Weight : <span>${bmi}</span>`;
+								
+										else if (bmi >= 18.6 && bmi < 24.9) 
+											result.innerHTML = 
+												`Normal : <span>${bmi}</span>`;
+								
+										else result.innerHTML =
+											`Over Weight : <span>${bmi}</span>`;
+
 									else {
 								
 										// Fixing upto 2 decimal places
