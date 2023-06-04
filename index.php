@@ -209,6 +209,8 @@
 						<input type="text" id="weight">
 
 						<button id="btn">Calculate</button>
+
+						<div id="result"></div>
 						
 						<div id="control-panel">
 							<script>
