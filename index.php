@@ -188,7 +188,7 @@
 				<!-- This is where your 320x50 header ad code from Adsense goes -->
 			</div>
 			<div id="header">
-				<h1><a href="<?php echo $host; ?>"><img class="logoimage" src="<?php echo $host; ?>images/icon64.png" width="40" height="40"><span class="logotext">Your Website Name</span></a></h1>
+				<h1><a href="<?php echo $host; ?>"><img class="logoimage" src="<?php echo $host; ?>images/icon64.png" width="40" height="40"><span class="logotext">BMI Finder</span></a></h1>
 			</div>
 			<div id="content">
 				<div id="tool-wrapper">
@@ -196,6 +196,20 @@
 						<!-- This is where your 300x250 top ad code from Adsense goes -->
 					</div>
 					<div id="tool">
+					<h1>BMI Calculator</h1>
+
+						<!-- Option for providing height 
+							and weight to the user-->
+						<p>Height (in cm)</p>
+
+						<input type="text" id="height">
+
+						<p>Weight (in kg)</p>
+
+						<input type="text" id="weight">
+
+						<button id="btn">Calculate</button>
+						
 						<div id="control-panel">
 							<script>
 								window.onload = () => {
@@ -256,13 +270,13 @@
 				<div class="content-inner">
 					<!-- This is where we can place supporting content about the tool, FAQ etc. -->
 					<div class="section minor">
-						<h3 class="subtitle-minor">About XYZ</h3>
-						<p class="subtext-minor">About section text to describe your tool...</p>
+						<h3 class="subtitle-minor">About BMI Finder</h3>
+						<p class="subtext-minor">Calculate your Body Mass Index using your height and weight using this free online calculator. Find our your BMI using either imperial or metric measurements.</p>
 					</div>
 					<hr/>
 					<div class="section minor">
-						<h3 class="subtitle-minor">Questions about XYZ</h3>
-						<p class="subtext-minor">Answer questions about your tool here...</p>
+						<h3 class="subtitle-minor">Questions about BMI Finder</h3>
+						<p class="subtext-minor">Questions</p>
 					</div>
 					<hr/>
 					<div class="section minor">
