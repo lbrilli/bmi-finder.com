@@ -20,11 +20,11 @@
 	session_start();
 	
 	//DEFINE DEFAULT CONTENT
-	$host = "https://www.yourdomainname.com/"; //FILL THIS IN WITH YOUR DOMAIN
-	$websitename = "YOUR WEBSITE NAME"; //FILL THIS IN WITH YOUR WEBSITE NAME, e.g. "Age Calculator - Calculate Age from Date of Birth"
-	$websitename_short = "YOUR WEBSITE SHORT NAME"; //FILL THIS IN WITH YOUR WEBSITE SHORTNAME, e.g. "Age Calculator"
-	$description = "YOUR WEBSITE DESCRIPTION"; //FILL THIS IN WITH YOUR WEBSITE DESCRIPTION e.g. "Calculate your exact age from date of birth with this free online age calculator. Find out how old you are in years, months, weeks and days."
-	$keywords = ""; //FILL IN WITH KEYWORDS e.g. "age calculator, calculate age"
+	$host = "https://www.bmi-finder.com/";
+	$websitename = "BMI Calculator - Calculate BMI with your height and weight";
+	$websitename_short = "BMI Calculator"; 
+	$description = "Calculate your Body Mass Index using your height and weight using this free online calculator. Find our your BMI using either standard or metric measurements.";
+	$keywords = "bmi calculator, calculate bmi, bmi finder, bmi";
 	date_default_timezone_set("America/Los_Angeles");
 	
 ?>

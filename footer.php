@@ -4,5 +4,13 @@
 		<p class="copyright">&copy; 2023 Yourdomainame.com</p><!-- IMPORTANT: Put your domain name here -->
 		<a href="https://www.flaticon.com/free-icons/bmi" title="bmi icons">Bmi icons created by DailyPm Studio - Flaticon</a>
 	</div>
-	<!-- PUT YOUR GOOGLE ANALYTICS CODE SNIPPET HERE -->
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0JLP74XDMZ"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-0JLP74XDMZ');
+</script>
 </div>

@@ -1,10 +1,7 @@
 <?php
 	include_once("../base.php");
 	
-	//IMPORTANT: FILL THIS
-	$name = "YOUR SITE URL"; //e.g. AgeFromDate.com
-	//IMPORTANT: FILL THIS
-	
+	$name = "bmi-finder.com";	
 	$websitename = "Privacy Policy - ".$name;
 	$description = "";
 	$keywords = "";
