@@ -198,44 +198,40 @@
 					<div id="tool">
 
 					<p>Select Imperial or Metric Units of Measure</p>
-		
-					<input type="radio" id="metricunits" name="metric" value="metric" checked="checked">
+
+					<input type="radio" id="measure" name="units" value="metric" checked>
 					<label for="metricunits">Metric</label>
-					<input type="radio" id="imperialunits" name="imperial" value="imperial">
+					<input type="radio" id="imperial" name="units" value="imperial">
 					<label for="imperialunits">Imperial</label><br>
 
-						<!-- Option for providing height 
+					<!-- Option for providing height 
 							and weight to the user-->
-						<p>Height (in cm or inches)</p>
+					<p>Height (in cm or inches)</p>
 
-						<input type="text" id="height">
+					<input type="text" id="height">
 
-						<p>Weight (in kg or pounds)</p>
+					<p>Weight (in kg or pounds)</p>
 
-						<input type="text" id="weight">
+					<input type="text" id="weight">
 
-						<button id="btn">Calculate</button>
+					<button id="btn">Calculate</button>
 
-						<br>
-						<br>
+					<br>
+					<br>
 
-						<div id="result"></div>
+					<div id="result"></div>
 						
 						<div id="control-panel">
 							<script>
 								window.onload = () => {
 								let button = document.querySelector("#btn");
-							
+								
 								// Function for calculating BMI
 								button.addEventListener("click", calculateBMI);
 								};
 								
 								function calculateBMI() {
-
-									/*Checking for imperial or metric calculation*/
-									var imperial = document.getElementById("imperial");
-									var metric = document.getElementById("metric");
-
+									
 									/* Getting input from user into height variable.
 									Input is string so typecasting is necessary. */
 									let height = parseInt(document
@@ -257,10 +253,11 @@
 										result.innerHTML = "Provide a valid Weight!";
 								
 									// If both input is valid, calculate the bmi
-
-									else if (imperial.checked)
-										let bmi = (weight / (height * height)) * 703
-
+									
+									//check if value is imperial
+									else if (document.getElementById('imperial').checked) {
+										let bmi = ((weight / (height * height)) * 703).toFixed(2);
+									
 										// Dividing as per the bmi conditions
 										if (bmi < 18.6) result.innerHTML =
 											`Under Weight : <span>${bmi}</span>`;
@@ -271,7 +268,8 @@
 								
 										else result.innerHTML =
 											`Over Weight : <span>${bmi}</span>`;
-
+									}
+									
 									else {
 								
 										// Fixing upto 2 decimal places
