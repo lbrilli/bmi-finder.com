@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/bmifinde/public_html/
-    - /bin/cp -R bmi-finder.com $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
