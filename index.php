@@ -214,6 +214,7 @@
 					<br>
 					<input type="text" id="weight">
 					<br>
+					<br>
 					<button id="btn">Calculate</button>
 
 					<br>
