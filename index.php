@@ -198,22 +198,22 @@
 					<div id="tool">
 
 					<p>Select Imperial or Metric Units of Measure</p>
-
+					<br>
 					<input type="radio" id="measure" name="units" value="metric" checked>
 					<label for="metricunits">Metric</label>
 					<input type="radio" id="imperial" name="units" value="imperial">
 					<label for="imperialunits">Imperial</label><br>
-
+					<br>
 					<!-- Option for providing height 
 							and weight to the user-->
 					<p>Height (in cm or inches)</p>
-
+					<br>
 					<input type="text" id="height">
-
+					<br>
 					<p>Weight (in kg or pounds)</p>
-
+					<br>
 					<input type="text" id="weight">
-
+					<br>
 					<button id="btn">Calculate</button>
 
 					<br>
