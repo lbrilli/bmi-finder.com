@@ -215,7 +215,7 @@
 					<input type="text" id="weight">
 					<br>
 					<br>
-					<button id="btn">Calculate</button>
+					<button id="btn" onclick="gtag('event','calculateBMI',{'event_category':'calculateBMI','event_label':'calculateBMI'})">Calculate</button>
 
 					<br>
 					<br>
@@ -295,7 +295,7 @@
 										else if (bmi >= 25 && bmi < 29.9)
 											result.innerHTML =
 												`Overweight : <span>${bmi}</span>`;
-												
+
 										else result.innerHTML = 
 												`Obese : <span>${bmi}</span>`;
 									}
