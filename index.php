@@ -42,7 +42,7 @@
 			h1,h2,h3,h4,h5,h6 {margin:0;line-height:1.2em;}
 			h1 a, h1 a:visited, h1 a:active, h1:hover a {color:black;}
 			p {margin:0;}
-			ul {margin: 30px auto;padding: 0;width:320px;}
+			ul {margin: 30px auto;padding: 0;max-width:900px;width:100%;}
 			ul li {margin: 10px auto;text-align: left;}
 			hr {color:#f5f5f5;border:1px solid #f5f5f5;}
 			button {-webkit-tap-highlight-color:  rgba(255, 255, 255, 0);}
