@@ -53,7 +53,7 @@
 			#content {text-align:center;}
 			.content-inner {padding:0 20px;max-width:940px;margin:20px auto 0 auto;width:100%;min-height:500px;}
 			.section.major {margin:25px 0 25px 0;}
-			.section.minor {margin:25px 0 25px 0;}
+			.section.minor {margin:16px 0 16px 0;line-height:1.6em}
 			.subtitle-major {font-size:24px;}
 			.subtext-major {font-size:18px;color:#444;font-weight:700;margin-top:15px;line-height:1.3em;}
 			.subtitle-minor {font-size:20px;color:#444;}
