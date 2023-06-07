@@ -312,7 +312,7 @@
 						<h3 class="subtitle-minor">Another section about XYZ</h3>
 						<p class="subtext-minor">More text about XYZ</p>
 						<ul>
-							<li>Option 1</li>
+							<li>Test</li>
 							<li>Option 2</li>
 							<li>Option 3</li>
 						</ul>
