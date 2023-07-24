@@ -178,6 +178,9 @@
 				#menu-burger {top:-3px; right: calc(50vw - 235px);}
 			}
 		</style>
+
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8599148673464639"
+     crossorigin="anonymous"></script>
 	</head>
 	<body id="body">
 		<div>
