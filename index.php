@@ -306,7 +306,8 @@
 							</script>
 						</div>
 					<div class="content-inner">
-						<p class="subtext-minor">
+						<div class="section-minor">
+							<p class="subtext-minor">
 								<ul>
 									<li>Underweight: BMI is less than 18.5</li>
 									<li>Normal weight: BMI is 18.5 to 24.9</li>
@@ -314,6 +315,7 @@
 									<li>Obese: BMI is 30 or more</li>
 								</ul>
 							</p>
+						</div>
 					</div>
 						<div class="bottomad">					
 							<!-- This is where your 320x50 bottom ad code from Adsense goes -->
