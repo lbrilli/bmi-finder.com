@@ -311,8 +311,8 @@
 						<div class="section-minor">
 							<table>
 								<tr>
-									<th>Rating</th>
-									<th>About Rating</th>
+									<th>Result</th>
+									<th>About Results</th>
 								</tr>
 								<tr>
 									<td>Underweight</td>
@@ -332,14 +332,6 @@
 								</tr>
 							</table>
 							<caption>*These are not definitive labels, and do not take into account individual factors. Consult a healthcare professional to learn more about your results.</caption>
-							<p class="subtext-minor">
-								<ul>
-									<li>Underweight: BMI is less than 18.5</li>
-									<li>Normal weight: BMI is 18.5 to 24.9</li>
-									<li>Overweight: BMI is 25 to 29.9</li>
-									<li>Obese: BMI is 30 or more</li>
-								</ul>
-							</p>
 						</div>
 					</div>
 						<div class="bottomad">					
