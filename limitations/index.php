@@ -83,6 +83,7 @@
 			<div class="intro">
 				<h1>Limitations of BMI</h1>
 				<article class="card">
+					<p> Under construction... but coming soon!</p>
 				</article>
 			</div>
 		</div>
