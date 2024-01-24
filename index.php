@@ -87,6 +87,7 @@
 			.control.sm:hover {color:#fff;background:rgb(63, 94, 251);border-color:rgb(63, 94, 251);}
 			#form-title {font-size:20px;font-weight:700;margin-bottom:20px;}
 			#form-wrapper {display:block;margin-bottom:10px;}
+			table, th, td {border:1px solid black;}
 			input[type=date] {font-family: Verdana, sans-serif;font-size:18px;border-radius:4px;background:#fff;border:2px solid #ddd;padding:9px 5px;min-width:300px;text-align: center;}
 			/* Ads */
 			.ad-placeholder {width:100%;height:100%;background:#fafafa;}
@@ -307,7 +308,7 @@
 						</div>
 					<div class="content-inner">
 						<div class="section-minor">
-							<table>
+							<table style="width:100%>
 								<tr>
 									<th>Rating</th>
 									<th>About Rating</th>
@@ -329,6 +330,7 @@
 									<td>BMI is 30 or more</td>
 								</tr>
 							</table>
+							<caption>*These are not definitive labels, and do not take into account individual factors. Consulting healthcare professional to learn more about your results.</caption>
 							<p class="subtext-minor">
 								<ul>
 									<li>Underweight: BMI is less than 18.5</li>
