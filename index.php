@@ -307,6 +307,28 @@
 						</div>
 					<div class="content-inner">
 						<div class="section-minor">
+							<table>
+								<tr>
+									<th>Rating</th>
+									<th>About Rating</th>
+								</tr>
+								<tr>
+									<td>Underweight</td>
+									<td>BMI is less than 18.5</td>
+								</tr>
+								<tr>
+									<td>Normal weight</td>
+									<td>BMI is 18.5 to 24.9</td>
+								</tr>
+								<tr>
+									<td>Overweight</td>
+									<td>BMI is 25 to 29.9</td>
+								</tr>
+								<tr>
+									<td>Obese</td>
+									<td>BMI is 30 or more</td>
+								</tr>
+							</table>
 							<p class="subtext-minor">
 								<ul>
 									<li>Underweight: BMI is less than 18.5</li>
