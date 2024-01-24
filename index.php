@@ -46,6 +46,7 @@
 			ul li {margin: 10px auto;text-align: left;}
 			hr {color:#f5f5f5;border:1px solid #f5f5f5;}
 			button {-webkit-tap-highlight-color:  rgba(255, 255, 255, 0);}
+			table, th, td { border:1px solid black;width:33%;} 
 			a.button {display:inline-block;margin:10px 0;font-weight:700;font-size:16px;background:rgb(63, 94, 251);color:#fff!important;border:1px solid rgb(63, 94, 251);border-radius:5px;-webkit-border-radius:5px;padding:10px 30px;cursor:pointer;margin:0 0.5vw;letter-spacing:0.03em;-webkit-tap-highlight-color:  rgba(255, 255, 255, 0);box-shadow:0 1px 1px rgba(0,0,0,.3);}
 			#header {text-align:center;max-width:940px;width:100%;padding:0 20px;margin:105px auto 10px auto;}
 			.logoimage {vertical-align:middle;margin-right:12px;margin-bottom:3px;}
@@ -329,7 +330,7 @@
 									<td>BMI is 30 or more</td>
 								</tr>
 							</table>
-							<caption>*These are not definitive labels, and do not take into account individual factors. Consulting healthcare professional to learn more about your results.</caption>
+							<caption>*These are not definitive labels, and do not take into account individual factors. Consult a healthcare professional to learn more about your results.</caption>
 							<p class="subtext-minor">
 								<ul>
 									<li>Underweight: BMI is less than 18.5</li>
