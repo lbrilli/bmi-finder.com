@@ -307,7 +307,7 @@
 						</div>
 					<div class="content-inner">
 						<div class="section-minor">
-							<table style="width:33%>
+							<table>
 								<tr>
 									<th>Rating</th>
 									<th>About Rating</th>
