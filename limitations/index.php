@@ -193,7 +193,7 @@
 				<!-- This is where your 320x50 header ad code from Adsense goes -->
 			</div>
 			<div id="header">
-				<h1><a href="<?php echo $host; ?>"><img class="logoimage" src="<?php echo $host; ?>images/icon64.png" width="40" height="40"><span class="logotext">BMI Finder</span></a></h1>
+				<h1><a href="<?php echo $host; ?>"><img class="logoimage" src="/home/user/bmi-finder.com/images/icon64.png" width="40" height="40"><span class="logotext">BMI Finder</span></a></h1>
 			</div>
 			<div id="content">
 				<div id="tool-wrap per">
