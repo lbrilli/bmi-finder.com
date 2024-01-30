@@ -187,7 +187,7 @@
 	<body id="body">
 		<div>
 			<?php
-				include_once("nav.php");
+				include("nav.php");
 			?>
 			<div class="fixedtopad">
 				<!-- This is where your 320x50 header ad code from Adsense goes -->
@@ -262,7 +262,7 @@
 			<!-- This is where your 320x50 footer ad code from Adsense goes -->
 		</div>
 		<?php 
-			include_once("footer.php");
+			include("footer.php");
 		?>
 		<script>
 			
