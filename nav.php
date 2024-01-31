@@ -2,7 +2,7 @@
 <div id="menu-nav">
 	<div class="nav-inner">
 		<div class="nav-header">Menu</div>
-		<a class="nav-item" href="<?php echo $host; ?>">Home</a>
+		<a class="nav-item" href="<?php echo __DIR__; ?>">Home</a>
 		<div class="nav-divider"></div>
 		<!-- Put your links to other pages here -->
 		<div class="nav-header">Privacy &amp; Terms</div>

@@ -27,11 +27,11 @@
 		<meta name="twitter:image" content="<?php echo $host; ?>../images/social-logo.jpg"/>
 		<meta name="twitter:card" content="summary_large_image"/>
 		<!-- Icons -->
-		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-		<link rel="manifest" href="/site.webmanifest">
-		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#999999">
+		<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+		<link rel="manifest" href="../site.webmanifest">
+		<link rel="mask-icon" href="../safari-pinned-tab.svg" color="#999999">
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="theme-color" content="#ffffff">
 		<!-- Styles -->
@@ -193,7 +193,7 @@
 				<!-- This is where your 320x50 header ad code from Adsense goes -->
 			</div>
 			<div id="header">
-				<h1><a href="<?php echo $host; ?>"><img class="logoimage" src="<?php echo $host; ?>icon64.png" width="40" height="40"><span class="logotext">BMI Finder</span></a></h1>
+				<h1><a href="<../>"><img class="logoimage" src="<?php echo $host; ?>icon64.png" width="40" height="40"><span class="logotext">BMI Finder</span></a></h1>
 			</div>
 			<div id="content">
 				<div id="tool-wrap per">
