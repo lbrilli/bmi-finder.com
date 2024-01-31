@@ -125,10 +125,10 @@
 		</style>
 	</head>
 	<body>
+		<div class="main">
 		<?php
 			include_once("../nav.php");
 		?>
-		<div class="main">
 			<div class="intro">
 				<h1>Privacy Policy</h1>
 				<article class="card">
