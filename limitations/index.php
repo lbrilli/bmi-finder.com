@@ -18,13 +18,13 @@
 		<!-- Social Meta Tags -->
 		<meta property="og:title" content="<?php echo $websitename; ?>"/>
 		<meta property="og:description" content="<?php echo $description; ?>"/>
-		<meta property="og:image" content="<?php echo $host; ?>images/social-logo.jpg"/>
+		<meta property="og:image" content="<?php echo $host; ?>../images/social-logo.jpg"/>
 		<meta property="og:url" content="<?php echo $host; ?>"/>
 		<meta property="og:locale" content="en" />
 		<meta property="og:type" content="website" />
 		<meta name="twitter:title" content="<?php echo $websitename; ?>"/>
 		<meta name="twitter:description" content="<?php echo $description; ?>"/>
-		<meta name="twitter:image" content="<?php echo $host; ?>images/social-logo.jpg"/>
+		<meta name="twitter:image" content="<?php echo $host; ?>../images/social-logo.jpg"/>
 		<meta name="twitter:card" content="summary_large_image"/>
 		<!-- Icons -->
 		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -187,7 +187,7 @@
 	<body id="body">
 		<div>
 			<?php
-				include"nav.php";
+				include_once("../nav.php");
 			?>
 			<div class="fixedtopad">
 				<!-- This is where your 320x50 header ad code from Adsense goes -->
@@ -262,7 +262,7 @@
 			<!-- This is where your 320x50 footer ad code from Adsense goes -->
 		</div>
 		<?php 
-			include"footer.php";
+			include_once("../footer.php");
 		?>
 		<script>
 			
