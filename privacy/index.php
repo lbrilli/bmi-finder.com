@@ -85,7 +85,7 @@
 				<article class="card">
 					<div id="privacy-wrapper">
 						<p>At <?php echo $name; ?>, available at https://www.<?php echo $name; ?>/, one of our main priorities is the privacy of our guests. This data protection document contains the types of information that is collected and registered by <?php echo $name; ?> and an explanation of its use.</p>
-						<p>If you have any questions about this privacy policy, please don't hesitate to contact us here: hilvestor [at] gmail.com</p>
+						<p>If you have any questions about this privacy policy, please don't hesitate to contact us here: questions@bmi-finder.com</p>
 						<h2>Regulation on the protection of personal data (GDPR)</h2>
 						<p>We are the administrator of your personal data.</p>
 						<p>The <?php echo $name; ?> legal basis for collecting and using the personal data described in this Privacy Policy depends on the personal data we collect and the specific context in which we collect information:</p>
