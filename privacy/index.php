@@ -63,7 +63,53 @@
 			.toggle-text {margin-right:10px;vertical-align:bottom;height:34px;display:inline-block;margin-bottom:3px;}
 			
 			.logo2 {display:none;}
-			
+
+			/* Menu */
+			#menu-burger {display:block;position:absolute;font-size:30px;font-weight:700;top:0;right:40px;border-radius:50%;-webkit-border-radius:50%;background:#fff;color:#222;opacity:0.9;text-align:center;padding:3px 10px 4.5px 10px;width:47.5px;height:47.5px;cursor:pointer;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;-webkit-tap-highlight-color:  rgba(255, 255, 255, 0);z-index:2;}
+			#menu-nav {display:none;position:fixed;top:0;left:0;height:100vh;width:calc(100% - 90px);background:#fff;color:#222;max-width:800px;box-shadow:5px 0 5px rgba(0,0,0,0.05);-webkit-box-shadow:5px 0 5px rgba(0,0,0,0.05);z-index:99;}
+			#cover {display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,0,0,0.7);z-index:98;}
+			.nav-inner {padding:20px;font-size: 16px;}
+			.nav-header {font-weight:700;color:#888;line-height:1.6em;}
+			a.nav-item {display:block;line-height:1.6em;padding:10px;background:#f5f5f5;border-radius:5px;-webkit-border-radius:5px;margin:4px 10px 4px 10px;}
+
+			/* Dynamic Styles*/
+			@media only screen and (max-width: 650px) and (min-height: 721px) {
+				h1 {font-size:30px;}
+				#menu-burger {color:#222;background:#fff;top:0;right:10px;}
+				#header {text-align:left;margin: 70px auto 15px auto;}
+				#tool {margin-top:15px;}
+				.footer .slide-inner {padding:20px 0 80px 0;}
+				.footer .slide-inner p {font-size:14px;line-height:1.3;}
+			}
+
+			@media only screen and (max-width: 650px) and (min-height: 667px) and (max-height: 720px) {
+				h1 {font-size:28px;}
+				#menu-burger {color:#222;background:#fff;top:0;right:10px;}
+				#header {text-align:left;margin: 70px auto 15px auto;}
+				.footer .slide-inner {padding:20px 0 80px 0;}
+				.footer .slide-inner p {font-size:14px;line-height:1.25;}
+			}
+
+			@media only screen and (max-width: 650px) and (min-height:635px) and (max-height: 666px) {
+				h1 {font-size:26px;}
+				#menu-burger {color:#222;background:#fff;top:0;right:10px;}
+				#header {text-align:left;margin: 70px auto 15px auto;}
+				.footer .slide-inner {padding:20px 0 80px 0;}
+				.footer .slide-inner p {font-size:14px;line-height:1.2;}
+			}
+
+			@media only screen and (max-width: 650px) and (max-height: 634px) {
+				h1 {font-size:24px;}
+				#menu-burger {color:#222;background:#fff;top:0;right:10px;}
+				#header {text-align:left;margin: 70px auto 15px auto;}
+				.footer .slide-inner {padding:20px 0 80px 0;}
+				.footer .slide-inner p {font-size:14px;line-height:1.2;}
+			}
+
+			@media only screen and (min-width: 651px) and (max-width: 1300px) {
+				#menu-burger {top:-3px; right: calc(50vw - 235px);}
+			}
+
 			@media (max-width: 60em) {
 				.logo2 {display:block;text-align:center;}
 			}
@@ -79,6 +125,9 @@
 		</style>
 	</head>
 	<body>
+		<?php
+			include_once("../nav.php");
+		?>
 		<div class="main">
 			<div class="intro">
 				<h1>Privacy Policy</h1>
@@ -135,9 +184,39 @@
 				</article>
 			</div>
 		</div>
+		<?php
+			include_once("footer.php");
+			ob_end_flush();
+		?>
+		<script>
+			
+			var nav = false;
+		
+			document.getElementById("menu-burger").addEventListener("click", function() {
+				if(nav) {
+					this.innerHTML = "&#9776;";
+					document.getElementById("menu-nav").style.display = "none";
+					document.getElementById("cover").style.display = "none";
+				} else {
+					this.innerHTML = "&#10005;";
+					document.getElementById("menu-nav").style.display = "block";
+					document.getElementById("cover").style.display = "block";
+				}
+				nav = !nav;
+			});
+			
+			document.getElementById("cover").addEventListener("click", function() {
+				if(nav) {
+					document.getElementById("menu-burger").innerHTML = "&#9776;";
+					document.getElementById("menu-nav").style.display = "none";
+					document.getElementById("cover").style.display = "none";
+				} else {
+					document.getElementById("menu-burger").innerHTML = "&#10005;";
+					document.getElementById("menu-nav").style.display = "block";
+					document.getElementById("cover").style.display = "block";
+				}
+				nav = !nav;
+			});
+		</script>
 	</body>
 </html>
-<?php
-	include_once("footer.php");
-	ob_end_flush();
-?>
