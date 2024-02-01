@@ -247,11 +247,8 @@
 				<div class="content-inner">
 					<!-- This is where we can place supporting content about the tool, FAQ etc. -->
 					<div class="section minor">
-						<h3 class="subtitle-minor">About BMI Finder</h3>
-						<p class="subtext-minor">Calculate your Body Mass Index using your height and weight using this free online 
-							calculator. Find our your BMI using either imperial or metric measurements. BMI (Body Mass Index) is a 
-							simple calculation that uses a person's height and weight to assess their weight status. It does not 
-							measure body fat directly, but it is a good indicator of where someone may stand.						
+						<h3 class="subtitle-minor">BMI doesn't distinguish between muscle and fat:</h3>
+						<p class="subtext-minor">A person with a lot of muscle mass will have a higher BMI than someone with the same weight but less muscle. This is because BMI is simply a calculation of weight divided by height squared, and it doesn't take into account body composition. So, a muscular athlete could be classified as overweight or obese according to their BMI, even though they are perfectly healthy.						
 						</p>
 					</div>
 					<hr/>
