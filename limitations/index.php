@@ -195,29 +195,30 @@
 			<div id="header">
 				<h1><a href="<../>"><img class="logoimage" src="<?php echo $host; ?>../images/icon64.png" width="40" height="40"><span class="logotext">BMI Finder</span></a></h1>
 			</div>
-				<div class="topad">
-					<!-- This is where your 300x250 top ad code from Adsense goes -->
-				</div>
-				<div class="content-inner">
-					<div class="section minor">
-						<h3 class="subtitle-minor">BMI doesn't distinguish between muscle and fat:</h3>
-						<p class="subtext-minor">A person with a lot of muscle mass will have a higher BMI than someone with the same weight but less muscle. This is because BMI is simply a calculation of weight divided by height squared, and it doesn't take into account body composition. So, a muscular athlete could be classified as overweight or obese according to their BMI, even though they are perfectly healthy.						
-						</p>
+			<div id="content">
+					<div class="topad">
+						<!-- This is where your 300x250 top ad code from Adsense goes -->
 					</div>
-					<hr/>
-				</div>
-				<div class="content-inner">
-					<div class="section minor">
-						<h3 class="subtitle-minor">BMI doesn't consider age and sex:</h3>
-						<p class="subtext-minor">	The relationship between BMI and health risks can vary depending on age and sex. For example, older adults tend to have a higher percentage of body fat than younger adults, even if their BMI is in the normal range. Similarly, women naturally have a higher percentage of body fat than men, even at the same BMI. This means that the same BMI category may not have the same health implications for everyone.					
-						</p>
+					<div class="content-inner">
+						<div class="section minor">
+							<h3 class="subtitle-minor">BMI doesn't distinguish between muscle and fat:</h3>
+							<p class="subtext-minor">A person with a lot of muscle mass will have a higher BMI than someone with the same weight but less muscle. This is because BMI is simply a calculation of weight divided by height squared, and it doesn't take into account body composition. So, a muscular athlete could be classified as overweight or obese according to their BMI, even though they are perfectly healthy.						
+							</p>
+						</div>
+						<hr/>
 					</div>
-					<hr/>
+					<div class="content-inner">
+						<div class="section minor">
+							<h3 class="subtitle-minor">BMI doesn't consider age and sex:</h3>
+							<p class="subtext-minor">	The relationship between BMI and health risks can vary depending on age and sex. For example, older adults tend to have a higher percentage of body fat than younger adults, even if their BMI is in the normal range. Similarly, women naturally have a higher percentage of body fat than men, even at the same BMI. This means that the same BMI category may not have the same health implications for everyone.					
+							</p>
+						</div>
+						<hr/>
+					</div>
+					<div class="bottomad">					
+						<!-- This is where your 320x50 bottom ad code from Adsense goes -->
+					</div>
 				</div>
-				<div class="bottomad">					
-					<!-- This is where your 320x50 bottom ad code from Adsense goes -->
-				</div>
-			</div>
 				<div class="content-inner">
 					<!-- This is where we can place supporting content about the tool, FAQ etc. -->
 					<div class="section minor">
