@@ -251,49 +251,6 @@
 						<!-- This is where your 320x50 bottom ad code from Adsense goes -->
 					</div>
 				</div>
-				<div class="content-inner">
-					<!-- This is where we can place supporting content about the tool, FAQ etc. -->
-					<div class="section minor">
-						<h3 class="subtitle-minor">BMI doesn't distinguish between muscle and fat:</h3>
-						<p class="subtext-minor">A person with a lot of muscle mass will have a higher BMI than someone with the same weight but less muscle. This is because BMI is simply a calculation of weight divided by height squared, and it doesn't take into account body composition. So, a muscular athlete could be classified as overweight or obese according to their BMI, even though they are perfectly healthy.						
-						</p>
-					</div>
-					<hr/>
-					<div class="section minor">
-						<h3 class="subtitle-minor">What can I use my BMI for?</h3>
-							<p class="subtext-minor">
-								<ul>
-									<li>To screen for weight-related health risks. A high BMI can be a sign of increased risk for chronic 
-										diseases such as heart disease, stroke, type 2 diabetes, and some types of cancer.</li>
-									<li>To track weight loss or gain over time. BMI can be used to track changes in weight status over time, 
-										which can help people stay motivated in their weight loss or weight gain goals.</li>
-									<li>To compare weight status to population norms. BMI can be used to compare a person's weight status to 
-										population norms, which can help people understand where they fall in terms of healthy weight.</li>
-									<li>It is important to note that BMI is not a perfect measure of body fatness. It does not take into 
-										account muscle mass, bone density, or body composition. Therefore, it is important to talk to your 
-										doctor about your weight status and any concerns you may have.</li>
-								</ul>
-							</p>
-					</div>
-					<hr/>
-					<div class="section minor">
-						<h3 class="subtitle-minor">What can I use BMI Finder for?</h3>
-						<p class="subtext-minor">
-							<ul>
-								<li>To determine your weight category. BMI is classified into four categories: underweight, normal weight, 
-									overweight, and obese. Your weight category can help you understand your risk for health problems 
-									related to weight.</li>
-								<li>To track your weight over time. BMI can be used to track changes in weight over time, which can help you 
-									stay motivated in your weight loss or weight gain goals.</li>
-								<li>To compare your weight to the average weight for your age and sex. BMI can be used to compare your weight 
-									to the average weight for your age and sex, which can help you understand if your weight is within a 
-									healthy range.</li>
-								<li>If you are concerned about your weight or weight status, talk to your doctor. They can help you 
-									understand your BMI and what it means for your health.</li>
-							</ul>
-						</p>
-					</div>
-				</div>
 			</div>
 		</div>
 		<div class="fixedbottomad">
