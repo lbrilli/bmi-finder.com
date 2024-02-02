@@ -200,6 +200,7 @@
 						<!-- This is where your 300x250 top ad code from Adsense goes -->
 					</div>
 					<div class="content-inner">
+						<h1>Limitations of BMI</h1>
 						<div class="section minor">
 							<h3 class="subtitle-minor">BMI doesn't distinguish between muscle and fat:</h3>
 							<p class="subtext-minor">A person with a lot of muscle mass will have a higher BMI than someone with the same weight but less muscle. This is because BMI is simply a calculation of weight divided by height squared, and it doesn't take into account body composition. So, a muscular athlete could be classified as overweight or obese according to their BMI, even though they are perfectly healthy.						
