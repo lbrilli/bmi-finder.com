@@ -197,59 +197,49 @@
 			</div>
 			<div id="content">
 				<div class="content-inner">
-					<h1>update title</h1>
+					<h1>Interpreting BMI results</h1>
+					<br>
+				<h2>Interpreting BMI results can be straightforward, but it's important to remember that BMI is just one piece of the puzzle when it comes to understanding your health. Here's what you need to know:</h2>
 					<div class="section minor">
-						<h3 class="subtitle-minor">update me</h3>
-						<p class="subtext-minor">update the text here
+						<h3 class="subtitle-minor">BMI ranges and their meanings:</h3>
+						<p class="subtext-minor">
+							<ul>
+								<li><b>Below 18.5:</b> This falls into the underweight range. It could indicate health risks like malnutrition or osteoporosis.</li>
+								<li><b>18.5 to 24.9:</b> This is the healthy weight range. It's generally considered desirable for most adults.</li>
+								<li><b>25 to 29.9:</b> This is the overweight range. It's not necessarily unhealthy, but it might increase your risk of certain health problems like heart disease and type 2 diabetes.</li>
+								<li><b>30 or above:</b> This falls into the obesity range. It's associated with increased risks of various health problems.</li>
+							</ul>		
 						</p>
 					</div>
 					<hr/>
 				</div>
 				<div class="content-inner">
-					<!-- This is where we can place supporting content about the tool, FAQ etc. -->
 					<div class="section minor">
-						<h3 class="subtitle-minor">About BMI Finder</h3>
-						<p class="subtext-minor">Calculate your Body Mass Index using your height and weight using this free online 
-							calculator. Find our your BMI using either imperial or metric measurements. BMI (Body Mass Index) is a 
-							simple calculation that uses a person's height and weight to assess their weight status. It does not 
-							measure body fat directly, but it is a good indicator of where someone may stand.						
-						</p>
-					</div>
-					<hr/>
-					<div class="section minor">
-						<h3 class="subtitle-minor">What can I use my BMI for?</h3>
-							<p class="subtext-minor">
-								<ul>
-									<li>To screen for weight-related health risks. A high BMI can be a sign of increased risk for chronic 
-										diseases such as heart disease, stroke, type 2 diabetes, and some types of cancer.</li>
-									<li>To track weight loss or gain over time. BMI can be used to track changes in weight status over time, 
-										which can help people stay motivated in their weight loss or weight gain goals.</li>
-									<li>To compare weight status to population norms. BMI can be used to compare a person's weight status to 
-										population norms, which can help people understand where they fall in terms of healthy weight.</li>
-									<li>It is important to note that BMI is not a perfect measure of body fatness. It does not take into 
-										account muscle mass, bone density, or body composition. Therefore, it is important to talk to your 
-										doctor about your weight status and any concerns you may have.</li>
-								</ul>
-							</p>
-					</div>
-					<hr/>
-					<div class="section minor">
-						<h3 class="subtitle-minor">What can I use BMI Finder for?</h3>
+						<h3 class="subtitle-minor">Important things to keep in mind:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li>To determine your weight category. BMI is classified into four categories: underweight, normal weight, 
-									overweight, and obese. Your weight category can help you understand your risk for health problems 
-									related to weight.</li>
-								<li>To track your weight over time. BMI can be used to track changes in weight over time, which can help you 
-									stay motivated in your weight loss or weight gain goals.</li>
-								<li>To compare your weight to the average weight for your age and sex. BMI can be used to compare your weight 
-									to the average weight for your age and sex, which can help you understand if your weight is within a 
-									healthy range.</li>
-								<li>If you are concerned about your weight or weight status, talk to your doctor. They can help you 
-									understand your BMI and what it means for your health.</li>
-							</ul>
+								<li><b>BMI doesn't account for body composition:</b> Muscle is denser than fat, so someone with a lot of muscle mass might have a high BMI even if they have low body fat. This is why <b> BMI isn't always accurate for athletes or people who weight train a lot.</b></li>
+								<li><b>Age, sex, and ethnicity can influence BMI:</b> Different BMI ranges might be used for children, pregnant or breastfeeding women, and older adults. It's also important to consider that BMI thresholds for health risks may vary depending on ethnicity.</li>
+								<li><b>BMI is just a screening tool: </b> It shouldn't be used to diagnose any health conditions. If you're concerned about your weight or health, talk to your doctor. They can consider your BMI along with other factors like your body composition, medical history, and family history to give you a more personalized assessment.</li>
+							</ul>		
 						</p>
 					</div>
+					<hr/>
+				</div>
+				<div class="content-inner">
+					<div class="section minor">
+						<h3 class="subtitle-minor">Here are some resources that you might find helpful:</h3>
+						<p class="subtext-minor">
+							<ul>
+								<li><b>National Institutes of Health:</b> <a href="https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity" target="_blank">https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity</a></li>
+								<li><b>Centers for Disease Control and Prevention:</b> <a href="https://www.cdc.gov/healthyweight/index.html" target="_blank">https://www.cdc.gov/healthyweight/index.html</a></li>
+								<li><b>World Health Organization:</b> <a href="https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index" target="_blank">https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index</a></li>
+							</ul>
+							<br>
+							Remember, the most important thing is to focus on your overall health and well-being. If you have any questions or concerns, talk to your doctor.
+						</p>
+					</div>
+					<hr/>
 				</div>
 			</div>
 		</div>
