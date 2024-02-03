@@ -53,7 +53,7 @@
 			.logoimage {vertical-align:middle;margin-right:12px;margin-bottom:3px;}
 			.logotext {vertical-align:middle;}
 			#content {text-align:center;}
-			.content-inner {padding:0 20px;max-width:940px;margin:20px auto 0 auto;width:100%;min-height:500px;}
+			.content-inner {padding:0 20px;max-width:940px;margin:20px auto 0 auto;width:100%;min-height:auto;}
 			.section.major {margin:25px 0 25px 0;}
 			.section.minor {margin:16px 0 16px 0;line-height:1.6em}
 			.subtitle-major {font-size:24px;}
@@ -196,10 +196,13 @@
 				<h1><a href="<../>"><img class="logoimage" src="<?php echo $host; ?>../images/icon64.png" width="40" height="40"><span class="logotext">BMI Finder</span></a></h1>
 			</div>
 			<div id="content">
+				<div class="topad">
+						<!-- This is where your 300x250 top ad code from Adsense goes -->
+				</div>
 				<div class="content-inner">
 					<h1>Interpreting BMI results</h1>
 					<br>
-				<h2>Interpreting BMI results can be straightforward, but it's important to remember that BMI is just one piece of the puzzle when it comes to understanding your health. Here's what you need to know:</h2>
+				<p>Interpreting BMI results can be straightforward, but it's important to remember that BMI is just one piece of the puzzle when it comes to understanding your health. Here's what you need to know:</p>
 					<div class="section minor">
 						<h3 class="subtitle-minor">BMI ranges and their meanings:</h3>
 						<p class="subtext-minor">
