@@ -183,6 +183,15 @@
 
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8599148673464639"
      crossorigin="anonymous"></script>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-0JLP74XDMZ"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-0JLP74XDMZ');
+	</script>
 	</head>
 	<body id="body">
 		<div>
@@ -253,6 +262,9 @@
 							</ul>
 						</p>
 					</div>
+				</div>
+				<div class="bottomad">					
+							<!-- This is where your 320x50 bottom ad code from Adsense goes -->
 				</div>
 			</div>
 		</div>
