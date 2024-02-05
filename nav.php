@@ -10,6 +10,10 @@
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>limitations/">Limitations of BMI</a>
 		<div class="nav-divider"></div>
+		<div class="nav-header">Health and wellness</div>
+		<a class="nav-item" href="<?php echo $host; ?>weight-management/">Healthy weight management</a>
+		<div class="nav-divider"></div>
+		<div class="nav-header">Privacy</div>
 		<a class="nav-item" href="<?php echo $host; ?>privacy/" target="_blank">Privacy Policy</a>
 		<div class="nav-divider"></div>
 	</div>
