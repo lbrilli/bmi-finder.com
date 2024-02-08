@@ -223,8 +223,9 @@
 								<li><b> Dietary approaches: </b> Explore options like the Mediterranean diet, rich in fruits, vegetables, and healthy fats, or the DASH diet, focusing on fruits, vegetables, whole grains, and low-fat dairy, known for heart health benefits. Consult a registered dietitian for personalized guidance.</li>
 							</ul>
 						</p>
-					</div>
 					<hr/>
+					</div>
+				<div class="content-inner">
 					<h3 class="subtitle-minor">Exercise:</h3>
 						<p class="subtext-minor">
 							<ul>
@@ -235,6 +236,8 @@
 							</ul>
 						</p>
 					<hr/>
+				</div>
+				<div class="content-inner">
 					<h3 class="subtitle-minor">Other Essential Factors:</h3>
 						<p class="subtext-minor">
 							<ul>
@@ -244,6 +247,8 @@
 							</ul>
 						</p>
 					<hr/>
+				</div>
+				<div class="content-inner">
 					<h3 class="subtitle-minor">Remember:</h3>
 						<p class="subtext-minor">
 							<ul>

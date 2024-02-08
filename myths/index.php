@@ -218,30 +218,40 @@
 						</p>
 					</div>
 					<hr/>
+				</div>
+				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor"> Myth 2: A "healthy" BMI is 18.5-24.9 for everyone.</h3>
 						<p class="subtext-minor"> <b>Fact:</b> This range is a general guideline, but age, ethnicity, and sex can influence healthy BMI ranges. For example, older adults tend to lose muscle mass, making their "healthy" range slightly lower. Consulting a healthcare professional for personalized guidance is crucial.
 						</p>
 					</div>
 					<hr/>
+				</div>
+				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor"> Myth 3: A high BMI automatically means poor health.</h3>
 						<p class="subtext-minor"> <b>Fact:</b> While a high BMI can increase the risk of certain health problems, it's not a definitive indicator of overall health. Other factors like diet, exercise, genetics, and body fat distribution play a significant role.
 						</p>
 					</div>
 					<hr/>
+				</div>
+				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor"> Myth 4: A low BMI always means good health.</h3>
 						<p class="subtext-minor"> <b>Fact:</b> Being underweight can also pose health risks like weakened immunity, osteoporosis, and nutrient deficiencies. Aiming for a healthy BMI within your individual range is important.
 						</p>
 					</div>
 					<hr/>
+				</div>
+				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor"> Myth 5: BMI is useless.</h3>
 						<p class="subtext-minor"> <b>Fact:</b> Despite its limitations, BMI can be a starting point for assessing weight-related health risks, especially for large populations. However, it shouldn't be used for individual diagnoses or solely guiding health decisions.
 						</p>
 					</div>
 					<hr/>
+				</div>
+				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor"> Here are some alternative measures to consider alongside BMI for a more comprehensive picture:</h3>
 						<p class="subtext-minor">
