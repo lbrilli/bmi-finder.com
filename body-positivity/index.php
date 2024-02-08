@@ -210,6 +210,7 @@
 				</div>
 				<div class="content-inner">
 					<h1>Ditch the Scales, Embrace the Whole You: A Journey to Body Positivity and Self-Acceptance</h1>
+					<br>
 					<p>In a world fixated on appearance, it's easy to get caught up in the numbers on the scale, forgetting the incredible things our bodies do every day. Let's ditch the unhealthy obsession with weight and embark on a journey towards <b> body positivity </b> and <b> self-acceptance,</b> focusing on <b>overall health and well-being.</b>
 					<div class="section minor">
 						<h3 class="subtitle-minor">Remember, you are more than a number:</h3>
@@ -272,7 +273,6 @@
 								<li>The Body Positive: <a href="https://www.thebodypositive.org/" target="_blank">https://www.thebodypositive.org/</a></li>
 								<li>Love Your Body: <a href="https://now.org/now-foundation/love-your-body/" target="_blank">https://now.org/now-foundation/love-your-body/</a></li>
 							</ul>
-							<br>
 							Remember, you are not alone on this journey. Embrace the power of self-acceptance and celebrate the amazing being you are!
 						</p>
 					</div>
