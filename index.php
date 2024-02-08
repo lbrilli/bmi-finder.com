@@ -320,6 +320,16 @@
 						</div>
 					<div class="content-inner">
 						<div class="section-minor">
+							<p>
+							Check out our other pages to learn to
+							<a href="<?php echo $host; ?>interpretation/">linterpret your results,</a> to understand 
+							<a href="<?php echo $host; ?>limitations/">limitations</a> and
+							<a href="<?php echo $host; ?>myths/"> myths</a> of BMI,and to see
+							<a href="<?php echo $host; ?>body-positivity/">strategies for body positivity</a> and
+							<a href="<?php echo $host; ?>weight-management/">weight management.</a>
+                            <br>
+                            <br>
+							</p>
 							<table>
 								<tr>
 									<th>Result</th>
@@ -357,7 +367,7 @@
 						<p class="subtext-minor">Calculate your Body Mass Index using your height and weight using this free online 
 							calculator. Find our your BMI using either imperial or metric measurements. BMI (Body Mass Index) is a 
 							simple calculation that uses a person's height and weight to assess their weight status. It does not 
-							measure body fat directly, but it is a good indicator of where someone may stand.						
+							measure body fat directly, but it is a good indicator of where someone may stand. Learn more about <a href="<?php echo $host; ?>interpretation/">how to interpret your results,</a> <a href="<?php echo $host; ?>limitations/">their limitations</a> and <a href="<?php echo $host; ?>myths/">myths of BMI</a> on our site.
 						</p>
 					</div>
 					<hr/>
@@ -368,12 +378,12 @@
 									<li>To screen for weight-related health risks. A high BMI can be a sign of increased risk for chronic 
 										diseases such as heart disease, stroke, type 2 diabetes, and some types of cancer.</li>
 									<li>To track weight loss or gain over time. BMI can be used to track changes in weight status over time, 
-										which can help people stay motivated in their weight loss or weight gain goals.</li>
+										which can help people stay motivated in their weight loss or weight gain goals. Learn more strategies for weight managment <a href="<?php echo $host; ?>weight-management/">here</a>.</li>
 									<li>To compare weight status to population norms. BMI can be used to compare a person's weight status to 
 										population norms, which can help people understand where they fall in terms of healthy weight.</li>
 									<li>It is important to note that BMI is not a perfect measure of body fatness. It does not take into 
 										account muscle mass, bone density, or body composition. Therefore, it is important to talk to your 
-										doctor about your weight status and any concerns you may have.</li>
+										doctor about your weight status and any concerns you may have. Learn more about its limitations <a href="<?php echo $host; ?>limitations/">here</a>.</li>
 								</ul>
 							</p>
 					</div>
