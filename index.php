@@ -324,7 +324,7 @@
 							Check out our other pages to learn to
 							<a href="<?php echo $host; ?>interpretation/">linterpret your results,</a> to understand 
 							<a href="<?php echo $host; ?>limitations/">limitations</a> and
-							<a href="<?php echo $host; ?>myths/"> myths</a> of BMI,and to see
+							<a href="<?php echo $host; ?>myths/"> myths</a> of BMI, and to see
 							<a href="<?php echo $host; ?>body-positivity/">strategies for body positivity</a> and
 							<a href="<?php echo $host; ?>weight-management/">weight management.</a>
                             <br>
