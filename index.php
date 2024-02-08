@@ -102,6 +102,7 @@
 			.fixedtopad .adsbygoogle {height:90px;max-height:90px;}
 			.fixedbottomad {background:white;overflow:hidden;display:none;z-index:2;width:100%;max-width:100%;height:90px;max-height:90px;position:fixed;bottom:0;left:0;text-align:center;-webkit-overflow-scrolling: touch;}
 			.fixedbottomad .adsbygoogle {display:none;height:90px;max-height:90px;}
+			#result {font-weight: bold;}
 			/* Dynamic Styles*/
 			@media only screen and (max-width: 650px) and (min-height: 721px) {
 				h1 {font-size:30px;}
@@ -223,6 +224,7 @@
 					<p>Height (in cm or inches)</p>
 					<br>
 					<input type="text" id="height">
+					<br>
 					<br>
 					<p>Weight (in kg or pounds)</p>
 					<br>
