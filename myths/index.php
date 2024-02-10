@@ -210,9 +210,9 @@
 				</div>
 				<div class="content-inner">
 					<h1>BMI: Beyond the Myths</h1>
-					<br>
-					<p> BMI (Body Mass Index) is a widely used tool, but it's crucial to understand its limitations and debunk surrounding myths:</p>
 					<div class="section minor">
+					<p> BMI (Body Mass Index) is a widely used tool, but it's crucial to understand its limitations and debunk surrounding myths:</p>
+						<br>
 						<h3 class="subtitle-minor"> Myth 1: BMI measures body fat.</h3>
 						<p class="subtext-minor"> <b>Fact:</b> BMI only uses height and weight, not directly measuring body fat. Muscle mass is denser than fat, so someone with high muscle mass could have a high BMI despite low body fat. Conversely, someone with low muscle mass could have a normal BMI but higher body fat percentage.
 						</p>
