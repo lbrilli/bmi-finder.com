@@ -210,9 +210,8 @@
 				</div>
 				<div class="content-inner">
 					<h1>Maintaining a Healthy Weight: A Balanced Approach</h1>
-					<br>
-					<p>Healthy weight management isn't just about a number on the scale; it's about cultivating a lifestyle that supports your overall well-being. Here are some key aspects to consider:</p>
 					<div class="section minor">
+						<p>Healthy weight management isn't just about a number on the scale; it's about cultivating a lifestyle that supports your overall well-being. Here are some key aspects to consider:</p>
 						<h3 class="subtitle-minor">Diet:</h3>
 						<p class="subtext-minor">
 							<ul>

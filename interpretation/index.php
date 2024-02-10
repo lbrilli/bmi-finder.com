@@ -211,8 +211,8 @@
 				<div class="content-inner">
 					<h1>Interpreting BMI results</h1>
 					<br>
-				<p>Interpreting BMI results can be straightforward, but it's important to remember that BMI is just one piece of the puzzle when it comes to understanding your health. Here's what you need to know:</p>
 					<div class="section minor">
+					<p>Interpreting BMI results can be straightforward, but it's important to remember that BMI is just one piece of the puzzle when it comes to understanding your health. Here's what you need to know:</p>
 						<h3 class="subtitle-minor">BMI ranges and their meanings:</h3>
 						<p class="subtext-minor">
 							<ul>
