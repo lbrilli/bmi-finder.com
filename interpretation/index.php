@@ -213,7 +213,8 @@
 					<br>
 					<div class="section minor">
 					<p>Interpreting BMI results can be straightforward, but it's important to remember that BMI is just one piece of the puzzle when it comes to understanding your health. Here's what you need to know:</p>
-						<h3 class="subtitle-minor">BMI ranges and their meanings:</h3>
+					<br>	
+					<h3 class="subtitle-minor">BMI ranges and their meanings:</h3>
 						<p class="subtext-minor">
 							<ul>
 								<li><b>Below 18.5:</b> This falls into the underweight range. It could indicate health risks like malnutrition or osteoporosis.</li>

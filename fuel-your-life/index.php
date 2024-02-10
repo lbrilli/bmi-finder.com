@@ -215,6 +215,7 @@
 						<p>Welcome to your one-stop shop for all things nutrition! From understanding your unique needs to whipping up delicious and healthy meals, this page aims to serve as a starting off point to empower you to make informed choices about what fuels your body. Let's dive in!</p>
 						<br>
 						<p><b>First things first:</b> understanding your individual needs is crucial. Age, activity level, and any existing health conditions play a significant role in what your body requires.</p>
+						<br>
 						<h3 class="subtitle-minor">Age is just a number, but not in nutrition:</h3>
 						<p class="subtext-minor">
 							<ul>
