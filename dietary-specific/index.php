@@ -212,6 +212,7 @@
 					<h1>Dietary Specific Recipes</h1>
 					<div class="section minor">
 						<h3 class="subtitle-minor">Vegetarian:</h3>
+						<p>Introduce recipe types</p>
 						<ul>
 							<li>
 								<h4 class="subtitle-minor">Thai Curry Noodle Bowls:</h4>
