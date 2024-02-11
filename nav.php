@@ -17,6 +17,9 @@
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>weight-management/">Healthy weight management</a>
 		<div class="nav-divider"></div>
+		<div class="nav-header">Recipes for Inspiration</div>
+		<a class="nav-item" href="<?php echo $host; ?>quick-easy-recipes/">Quick and Easy Weeknight Meals</a>
+		<div class="nav-divider"></div>
 		<div class="nav-header">Privacy</div>
 		<a class="nav-item" href="<?php echo $host; ?>privacy/" target="_blank">Privacy Policy</a>
 		<div class="nav-divider"></div>

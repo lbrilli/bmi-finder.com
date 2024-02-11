@@ -209,11 +209,12 @@
 						<!-- This is where your 300x250 top ad code from Adsense goes -->
 				</div>
 				<div class="content-inner">
-					<h1>update title</h1>
+					<h1>Quick & Easy Weeknight Meals</h1>
 					<div class="section minor">
-						<h3 class="subtitle-minor"></h3>
-						<p class="subtext-minor">
+						<h3 class="subtitle-minor">One-Pan Lemon Garlic Shrimp & Asparagus:</h3>
+						<p class="subtext-minor">This vibrant, flavorful dish comes together in just 20 minutes! Shrimp cooks quickly, infusing with the zesty lemon-garlic sauce and tender asparagus. Perfect over rice or quinoa.
 						</p>
+						<a href="https://www.eatyourselfskinny.com/sheet-pan-lemon-garlic-shrimp-and-asparagus/"><img src="one-pan.png" alt="" style="width:100px;height:100px;"></a>
 					</div>
 					<hr/>
 				</div>
