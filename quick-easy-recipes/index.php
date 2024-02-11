@@ -236,6 +236,33 @@
 					</div>
 					<hr/>
 				</div>
+				<div class="content-inner">
+					<div class="section minor">
+						<h3 class="subtitle-minor">15-Minute Chicken Fajitas:</h3>
+						<p class="subtext-minor">Marinated chicken strips sizzle on the stovetop with colorful peppers and onions. Serve on warm tortillas with your favorite fajita toppings for a fun and flavorful meal.
+						</p>
+						<a target="_blank" href="https://aspoonfulofsimple.com/2019/06/03/15-minute-chicken-fajitas/"><img src="15-min-fajitas.png" alt="" style="width:200px;height:200px;"></a>
+					</div>
+					<hr/>
+				</div>
+				<div class="content-inner">
+					<div class="section minor">
+						<h3 class="subtitle-minor">Tuscan White Bean Soup:</h3>
+						<p class="subtext-minor">This hearty soup simmered with kale, cannellini beans, and Italian sausage is ready in under 30 minutes. Perfect for a cozy and satisfying weeknight dinner.
+						</p>
+						<a target="_blank" href="https://eatwithclarity.com/white-bean-soup/"><img src="tuscan-white-bean.png" alt="" style="width:200px;height:200px;"></a>
+					</div>
+					<hr/>
+				</div>
+				<div class="content-inner">
+					<div class="section minor">
+						<h3 class="subtitle-minor">Shrimp Scampi with Zucchini Noodles:</h3>
+						<p class="subtext-minor">A lighter twist on a classic! Use spiralized zucchini noodles instead of pasta for a low-carb option, tossed in a garlicky butter sauce with plump shrimp.	
+						</p>
+						<a target="_blank" href="https://www.wellplated.com/healthy-shrimp-scampi/"><img src="shrimp-scampi.png" alt="" style="width:200px;height:200px;"></a>
+					</div>
+					<hr/>
+				</div>
 				<div class="bottomad">					
 							<!-- This is where your 320x50 bottom ad code from Adsense goes -->
 				</div>

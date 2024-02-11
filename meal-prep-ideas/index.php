@@ -236,6 +236,33 @@
 					</div>
 					<hr/>
 				</div>
+				<div class="content-inner">
+					<div class="section minor">
+						<h3 class="subtitle-minor"></h3>
+						<p class="subtext-minor">		
+						</p>
+						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
+					</div>
+					<hr/>
+				</div>
+				<div class="content-inner">
+					<div class="section minor">
+						<h3 class="subtitle-minor"></h3>
+						<p class="subtext-minor">		
+						</p>
+						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
+					</div>
+					<hr/>
+				</div>
+				<div class="content-inner">
+					<div class="section minor">
+						<h3 class="subtitle-minor"></h3>
+						<p class="subtext-minor">		
+						</p>
+						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
+					</div>
+					<hr/>
+				</div>
 				<div class="bottomad">					
 							<!-- This is where your 320x50 bottom ad code from Adsense goes -->
 				</div>
