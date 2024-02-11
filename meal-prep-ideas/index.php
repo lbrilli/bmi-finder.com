@@ -214,7 +214,7 @@
 						<h3 class="subtitle-minor"></h3>
 						<p class="subtext-minor">
 						</p>
-						<a href=""><img src="" alt="" style="width:200px;height:200px;"></a>
+						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
 					</div>
 					<hr/>
 				</div>
@@ -223,7 +223,7 @@
 						<h3 class="subtitle-minor"></h3>
 						<p class="subtext-minor">		
 						</p>
-						<a href=""><img src="" alt="" style="width:200px;height:200px;"></a>
+						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
 					</div>
 					<hr/>
 				</div>
@@ -232,7 +232,7 @@
 						<h3 class="subtitle-minor"></h3>
 						<p class="subtext-minor">				
 						</p>
-						<a href=""><img src="" alt="" style="width:200px;height:200px;"></a>
+						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
 					</div>
 					<hr/>
 				</div>
