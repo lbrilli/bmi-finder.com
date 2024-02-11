@@ -213,22 +213,17 @@
 					<div class="section minor">
 						<h3 class="subtitle-minor">Vegetarian:</h3>
 						<p>Introduce recipe types</p>
-						<ul>
-							<li>
-								<h4 class="subtitle-minor">Thai Curry Noodle Bowls:</h4>
-								<p class="subtext-minor">These flavorful bowls are bursting with veggies, tofu, and a creamy coconut curry sauce. Served over rice noodles, it's a satisfying and protein-packed option.
-								<br>
-								<a target="_blank" href="https://iheartvegetables.com/coconut-curry-noodle-bowl-2/"><img src="thai-curry-bowl" alt="" style="width:200px;height:200px;"></a>
-								</p>
-							</li>
-							<li>
-								<h4 class="subtitle-minor">Sweet Potato Black Bean Burgers:</h4>
-								<p class="subtext-minor">These flavorful burgers are packed with protein and fiber from sweet potatoes and black beans. Topped with avocado and a creamy sauce, they're a satisfying and delicious vegetarian option.
-								<br>
-								<a target="_blank" href="https://www.eatingwell.com/recipe/278513/sweet-potato-black-bean-burgers/"><img src="sweet-potato-burger.png" alt="" style="width:200px;height:200px;"></a>
-								</p>
-							</li>
-						<ul>
+						<h4 class="subtitle-minor">Thai Curry Noodle Bowls:</h4>
+						<p class="subtext-minor">These flavorful bowls are bursting with veggies, tofu, and a creamy coconut curry sauce. Served over rice noodles, it's a satisfying and protein-packed option.
+						<br>
+						<a target="_blank" href="https://iheartvegetables.com/coconut-curry-noodle-bowl-2/"><img src="thai-curry-bowl" alt="" style="width:200px;height:200px;"></a>
+						</p>
+						<br>
+						<h4 class="subtitle-minor">Sweet Potato Black Bean Burgers:</h4>
+						<p class="subtext-minor">These flavorful burgers are packed with protein and fiber from sweet potatoes and black beans. Topped with avocado and a creamy sauce, they're a satisfying and delicious vegetarian option.
+						<br>
+						<a target="_blank" href="https://www.eatingwell.com/recipe/278513/sweet-potato-black-bean-burgers/"><img src="sweet-potato-burger.png" alt="" style="width:200px;height:200px;"></a>
+						</p>
 					</div>
 					<hr/>
 				</div>
