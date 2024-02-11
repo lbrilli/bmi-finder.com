@@ -209,30 +209,30 @@
 						<!-- This is where your 300x250 top ad code from Adsense goes -->
 				</div>
 				<div class="content-inner">
-					<h1>Quick & Easy Weeknight Meals</h1>
+					<h1></h1>
 					<div class="section minor">
-						<h3 class="subtitle-minor">One-Pan Lemon Garlic Shrimp & Asparagus:</h3>
-						<p class="subtext-minor">This vibrant, flavorful dish comes together in just 20 minutes! Shrimp cooks quickly, infusing with the zesty lemon-garlic sauce and tender asparagus. Perfect over rice or quinoa.
+						<h3 class="subtitle-minor"></h3>
+						<p class="subtext-minor">
 						</p>
-						<a href="https://www.eatyourselfskinny.com/sheet-pan-lemon-garlic-shrimp-and-asparagus/"><img src="one-pan.png" alt="" style="width:200px;height:200px;"></a>
+						<a href=""><img src="" alt="" style="width:200px;height:200px;"></a>
 					</div>
 					<hr/>
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor">Creamy Tomato Tortilla Soup:</h3>
-						<p class="subtext-minor"> A comforting classic with a Mexican twist! Canned tomatoes, beans, and spices simmer into a creamy broth, topped with crispy tortilla strips and melty cheese. Ready in 30 minutes! 					
+						<h3 class="subtitle-minor"></h3>
+						<p class="subtext-minor">		
 						</p>
-						<a href="https://www.galonamission.com/one-pot-creamy-tomato-tortellini-soup/"><img src="creamy-tomato-tortilla.png" alt="" style="width:200px;height:200px;"></a>
+						<a href=""><img src="" alt="" style="width:200px;height:200px;"></a>
 					</div>
 					<hr/>
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor">Spicy Chicken Stir-Fry with Veggies:</h3>
-						<p class="subtext-minor">Packed with protein and veggies, this customizable stir-fry is a weeknight win. Use your favorite stir-fry vegetables and adjust the spice level to your preference. Serve over rice or noodles.				
+						<h3 class="subtitle-minor"></h3>
+						<p class="subtext-minor">				
 						</p>
-						<a href="https://karylskulinarykrusade.com/recipe-spicy-chicken-vegetable-stir-fry/"><img src="stir-fry-veggies" alt="" style="width:200px;height:200px;"></a>
+						<a href=""><img src="" alt="" style="width:200px;height:200px;"></a>
 					</div>
 					<hr/>
 				</div>
