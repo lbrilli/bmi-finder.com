@@ -214,7 +214,7 @@
 						<h3 class="subtitle-minor">Sheet Pan Roasted Salmon with Butternut Squash & Brussels Sprouts:</h3>
 						<p class="subtext-minor">This oven-roasted meal preps beautifully and offers balanced nutrition. Salmon bakes with sweet butternut squash and savory Brussels sprouts for a satisfying and flavorful dish.
 						</p>
-						<a target="_blank" href="https://joanne-eatswellwithothers.com/2017/09/sheet-pan-brown-sugar-salmon-with-roasted-butternut-squash-and-brussels-sprouts.html"><img src="sheet-pan-roasted-salmon.png" alt="" style="width:200px;height:200px;"></a>
+						<a target="_blank" href="https://joanne-eatswellwithothers.com/2017/09/sheet-pan-brown-sugar-salmon-with-roasted-butternut-squash-and-brussels-sprouts.html"><img src="sheet-pan-roasted-salmon.png" alt="" style="width:250px;height:200px;"></a>
 					</div>
 					<hr/>
 				</div>
@@ -223,7 +223,7 @@
 						<h3 class="subtitle-minor">Quinoa Bowls with Roasted Vegetables & Tahini Dressing:</h3>
 						<p class="subtext-minor">A versatile and customizable meal prep option! Roast your favorite vegetables and assemble bowls with cooked quinoa, protein of choice (grilled chicken, chickpeas, etc.), and a creamy tahini dressing.	
 						</p>
-						<a target="_blank" href="https://feelgoodfoodie.net/recipe/roasted-vegetable-quinoa-bowl/"><img src="quinoa-bowls.png" alt="" style="width:200px;height:200px;"></a>
+						<a target="_blank" href="https://feelgoodfoodie.net/recipe/roasted-vegetable-quinoa-bowl/"><img src="quinoa-bowls.png" alt="" style="width:225px;height:200px;"></a>
 					</div>
 					<hr/>
 				</div>
