@@ -214,7 +214,7 @@
 						<h3 class="subtitle-minor">One-Pan Lemon Garlic Shrimp & Asparagus:</h3>
 						<p class="subtext-minor">This vibrant, flavorful dish comes together in just 20 minutes! Shrimp cooks quickly, infusing with the zesty lemon-garlic sauce and tender asparagus. Perfect over rice or quinoa.
 						</p>
-						<a href="https://www.eatyourselfskinny.com/sheet-pan-lemon-garlic-shrimp-and-asparagus/"><img src="one-pan.png" alt="" style="width:100px;height:100px;"></a>
+						<a href="https://www.eatyourselfskinny.com/sheet-pan-lemon-garlic-shrimp-and-asparagus/"><img src="one-pan.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
 					<hr/>
 				</div>
