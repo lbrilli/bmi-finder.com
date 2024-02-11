@@ -7,6 +7,7 @@
 		<a href="<?php echo $host; ?>weight-management/">Healthy weight management</a>
 		<a href="<?php echo $host; ?>quick-easy-recipes/">Quick and Easy Weeknight Meals</a>
 		<a href="<?php echo $host; ?>meal-prep-ideas/">Meal Prep Ideas</a>
+		<a href="<?php echo $host; ?>budgeet-friendly/">Budget-Friendly Options</a>
 		<a target="_blank" href="<?php echo $host; ?>privacy/">Privacy Policy</a>
 		<p class="copyright">&copy; 2023 bmi-finder.com</p>
 		<a href="https://www.flaticon.com/free-icons/bmi" title="bmi icons">Bmi icons created by DailyPm Studio - Flaticon</a>
