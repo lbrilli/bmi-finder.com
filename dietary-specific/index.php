@@ -219,7 +219,7 @@
 						<a target="_blank" href="https://iheartvegetables.com/coconut-curry-noodle-bowl-2/"><img src="thai-curry-bowl.png" alt="" style="width:200px;height:200px;"></a>
 						</p>
 						<br>
-						<h4 class="subtitle-minor">Sweet Potato Black Bean Burgers:</h4>
+						<h4>Sweet Potato Black Bean Burgers:</h4>
 						<p class="subtext-minor">These flavorful burgers are packed with protein and fiber from sweet potatoes and black beans. Topped with avocado and a creamy sauce, they're a satisfying and delicious vegetarian option.
 						<br>
 						<a target="_blank" href="https://www.eatingwell.com/recipe/278513/sweet-potato-black-bean-burgers/"><img src="sweet-potato-burger.png" alt="" style="width:200px;height:200px;"></a>
@@ -231,7 +231,7 @@
 					<div class="section minor">
 						<h3 class="subtitle-minor"></h3>
 						<br>
-						<h4 class="subtitle-minor"></h4>
+						<h4></h4>
 						<p class="subtext-minor">
 						<br>	
 						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
@@ -239,7 +239,7 @@
 						<br>
 						<h3 class="subtitle-minor"></h3>
 						<br>
-						<h4 class="subtitle-minor"></h4>
+						<h4></h4>
 						<p class="subtext-minor">
 						<br>	
 						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
