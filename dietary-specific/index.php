@@ -211,7 +211,7 @@
 				<div class="content-inner">
 					<h1>Dietary Specific Recipes</h1>
 					<div class="section minor">
-						<h3 class="subtitle-minor">Vegetarian:</h3>
+						<h3 class="subtitle-minor">Vegetarian</h3>
 						<br>
 						<h4>Thai Curry Noodle Bowls:</h4>
 						<p class="subtext-minor">These flavorful bowls are bursting with veggies, tofu, and a creamy coconut curry sauce. Served over rice noodles, it's a satisfying and protein-packed option.
@@ -229,57 +229,55 @@
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor"></h3>
+						<h3 class="subtitle-minor">Vegan</h3>
 						<br>
-						<h4></h4>
-						<p class="subtext-minor">
+						<h4>Vegan Buddha Bowl:</h4>
+						<p class="subtext-minor">This colorful and customizable bowl offers a balanced blend of protein, healthy fats, and fiber. Quinoa or brown rice forms the base, topped with roasted vegetables, chickpeas, avocado, and a tangy tahini dressing.
 						<br>	
-						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
+						<a target="_blank" href="https://wellandfull.com/2020/02/the-vegan-buddha-bowl/"><img src="vegan-buddha-bowl.png" alt="" style="width:200px;height:200px;"></a>
 						</p>
 						<br>
-						<h3 class="subtitle-minor"></h3>
-						<br>
-						<h4></h4>
-						<p class="subtext-minor">
+						<h4>Lentil Shepherd's Pie:</h4>
+						<p class="subtext-minor">This plant-based twist on a classic comfort food is made with lentils, vegetables, and a creamy mashed potato topping. Perfect for a satisfying and hearty vegan meal.
 						<br>	
-						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
+						<a target="_blank" href="https://www.spendwithpennies.com/easy-lentil-shepherds-pie-vegetarian/"><img src="lentil-shephards-pie.png" alt="" style="width:200px;height:200px;"></a>
 						</p>
 					</div>
 					<hr/>
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor"></h3>
-						<p class="subtext-minor">				
+						<h3 class="subtitle-minor">Gluten-Free</h3>
+						<br>
+						<h4>Salmon with Coconut Curry Sauce & Spiralized Vegetables:</h4>
+						<p class="subtext-minor">This gluten-free and flavorful dish pairs perfectly cooked salmon with a creamy coconut curry sauce and spiralized vegetables for a satisfying and nutrient-rich meal.
+						<br>	
+						<a target="_blank" href="https://www.saltandlavender.com/salmon-coconut-curry/"><img src="salmon-with-coconut-curry.png" alt="" style="position:relative;width:285px;height:200px;left:40px;"></a>
 						</p>
-						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
+						<br>
+						<h4>Chicken Piccata with Almond Flour Crust:</h4>
+						<p class="subtext-minor">This gluten-free dish features tender chicken coated in a flavorful lemon-caper sauce. Use almond flour instead of breadcrumbs for a crispy and delicious crust.
+						<br>	
+						<a target="_blank" href="https://www.foodandwine.com/recipes/almond-flour-crusted-chicken-piccata"><img src="chicken-piccata.png" alt="" style="width:200px;height:200px;"></a>
+						</p>
 					</div>
 					<hr/>
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor"></h3>
-						<p class="subtext-minor">		
+						<h3 class="subtitle-minor">Keto</h3>
+						<br>
+						<h4>Cheesy Zucchini Fritters with Avocado Crema:</h4>
+						<p class="subtext-minor">These low-carb fritters are made with grated zucchini, almond flour, and cheese, offering a crispy and satisfying alternative to potato pancakes. Enjoy them with a dollop of creamy avocado crema for added flavor and fat.
+						<br>	
+						<a target="_blank" href="https://hipfoodiemom.com/2019/05/20/zucchini-fritters-with-avocado-crema-video/"><img src="cheesy-fritters.png" alt="" style="width:200px;height:200px;"></a>
 						</p>
-						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
-					</div>
-					<hr/>
-				</div>
-				<div class="content-inner">
-					<div class="section minor">
-						<h3 class="subtitle-minor"></h3>
-						<p class="subtext-minor">		
+						<br>
+						<h4>Cauliflower Fried "Rice" Bowl with Teriyaki Shrimp:</h4>
+						<p class="subtext-minor">This low-carb bowl uses cauliflower rice instead of regular rice, topped with flavorful teriyaki shrimp and your favorite keto-friendly vegetables.
+						<br>	
+						<a target="_blank" href="https://www.jessicagavin.com/shrimp-fried-cauliflower-rice-bowl/"><img src="cauliflower-fried-rice.png" alt="" style="position:relative;width:240px;px;height:200px;left:20px;"></a>
 						</p>
-						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
-					</div>
-					<hr/>
-				</div>
-				<div class="content-inner">
-					<div class="section minor">
-						<h3 class="subtitle-minor"></h3>
-						<p class="subtext-minor">		
-						</p>
-						<a target="_blank" href=""><img src="" alt="" style="width:200px;height:200px;"></a>
 					</div>
 					<hr/>
 				</div>
