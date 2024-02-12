@@ -24,6 +24,8 @@
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>budget-friendly/">Budget-Friendly Options</a>
 		<div class="nav-divider"></div>
+		<a class="nav-item" href="<?php echo $host; ?>dietary-specific/">Dietary Specific Recipes</a>
+		<div class="nav-divider"></div>
 		<div class="nav-header">Privacy</div>
 		<a class="nav-item" href="<?php echo $host; ?>privacy/" target="_blank">Privacy Policy</a>
 		<div class="nav-divider"></div>
