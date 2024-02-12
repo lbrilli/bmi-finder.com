@@ -252,7 +252,7 @@
 						<h4>Salmon with Coconut Curry Sauce & Spiralized Vegetables:</h4>
 						<p class="subtext-minor">This gluten-free and flavorful dish pairs perfectly cooked salmon with a creamy coconut curry sauce and spiralized vegetables for a satisfying and nutrient-rich meal.
 						<br>	
-						<a target="_blank" href="https://www.saltandlavender.com/salmon-coconut-curry/"><img src="salmon-with-coconut-curry.png" alt="" style="position:relative;width:285px;height:200px;left:40px;"></a>
+						<a target="_blank" href="https://www.saltandlavender.com/salmon-coconut-curry/"><img src="salmon-with-coconut-curry.png" alt="" style="position:relative;width:250px;height:200px;left:25px;"></a>
 						</p>
 						<br>
 						<h4>Chicken Piccata with Almond Flour Crust:</h4>
@@ -276,7 +276,7 @@
 						<h4>Cauliflower Fried "Rice" Bowl with Teriyaki Shrimp:</h4>
 						<p class="subtext-minor">This low-carb bowl uses cauliflower rice instead of regular rice, topped with flavorful teriyaki shrimp and your favorite keto-friendly vegetables.
 						<br>	
-						<a target="_blank" href="https://www.jessicagavin.com/shrimp-fried-cauliflower-rice-bowl/"><img src="cauliflower-fried-rice.png" alt="" style="position:relative;width:240px;px;height:200px;left:20px;"></a>
+						<a target="_blank" href="https://www.jessicagavin.com/shrimp-fried-cauliflower-rice-bowl/"><img src="cauliflower-fried-rice.png" alt="" style="position:relative;width:215px;px;height:200px;left:7.5px;"></a>
 						</p>
 					</div>
 					<hr/>
