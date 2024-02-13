@@ -13,6 +13,8 @@
 		<div class="nav-header">Health and wellness</div>
 		<a class="nav-item" href="<?php echo $host; ?>fuel-your-life/">Fuel Your Life: Nutrition Basics and Choices</a>
 		<div class="nav-divider"></div>
+		<a class="nav-item" href="<?php echo $host; ?>couch-potato/">From Couch Potato to Champion: Real People, Real Transformations</a>
+		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>body-positivity/">Ditch the Scales, Embrace the Whole You</a>
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>weight-management/">Healthy Weight Management</a>

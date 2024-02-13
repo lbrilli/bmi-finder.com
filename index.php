@@ -367,7 +367,11 @@
 						<p class="subtext-minor">Calculate your Body Mass Index using your height and weight using this free online 
 							calculator. Find our your BMI using either imperial or metric measurements. BMI (Body Mass Index) is a 
 							simple calculation that uses a person's height and weight to assess their weight status. It does not 
-							measure body fat directly, but it is a good indicator of where someone may stand. Learn more about <a href="<?php echo $host; ?>interpretation/">how to interpret your results,</a> <a href="<?php echo $host; ?>limitations/">their limitations</a> and <a href="<?php echo $host; ?>myths/">myths of BMI</a> on our site.
+							measure body fat directly, but it is a good indicator of where someone may stand. Learn more about
+							 <a href="<?php echo $host; ?>interpretation/">how to interpret your results,
+							</a> <a href="<?php echo $host; ?>limitations/">their limitations</a> and
+							 <a href="<?php echo $host; ?>myths/">myths of BMI</a> on our site. We also have content around
+							 <a href="<?php echo $host; ?>fuel-your-life/">nutrition</a>. 
 						</p>
 					</div>
 					<hr/>
@@ -403,6 +407,43 @@
 								<li>If you are concerned about your weight or weight status, talk to your doctor. They can help you 
 									understand your BMI and what it means for your health.</li>
 							</ul>
+						</p>
+					</div>
+					<hr/>
+					<h2>Here's a preview of what you can learn on BMI Finder:</h2>
+					<div class="section minor">
+						<h3 class="subtitle-minor">Navigating the Delicious World of Nutrition: Basics and Choices for YOU</h3>
+						<p class="subtext-minor">Understanding one's own requirements such as age, activity level, 
+							and medical conditions is the cornerstone of good nutrion. While adults require complex 
+							carbs for long-term energy and muscle repair, children require a balanced diet of 
+							protein, carbohydrates, healthy fats, vitamins, and minerals. Nutrient-dense diets are 
+							essential for seniors' healthy bones. Protein and carbs are needed in greater amounts 
+							by active people, but meals high in fiber are needed by inactive people. Special 
+							attention is needed for health issues such as allergies, heart disease, and diabetes. 
+							Encouraging people to make healthy decisions that suit their interests and lifestyle is the aim.
+							<br>
+							<a href="<?php echo $host; ?>fuel-your-life/">Read the full post</a>
+						</p>
+					</div>
+					<hr/>
+					<div class="section minor">
+						<h3 class="subtitle-minor">From Couch Potato to Champion: Real People, Real Transformations</h3>
+						<p class="subtext-minor">This post offers inspiration and practical tips for those struggling with 
+							fitness. It features real people who have transformed their lives through positive lifestyle 
+							changes and shares simple workout routines at home, no gym required. The stories highlight the 
+							power of small, consistent changes, finding activities you enjoy, and community support. Home 
+							workout routines include a bodyweight blast, cardio challenge, and strength and stretch 
+							exercises. It's important to start slow, gradually increase intensity and duration, listen to 
+							your body, take rest days when needed, celebrate progress, and have fun. Tracking progress with 
+							a fitness app or journal can be a powerful motivator.
+							<br>
+							<a href="<?php echo $host; ?>couch-potato/">Read the full post</a>
+						</p>
+					</div>
+					<hr/>
+					<div class="section minor">
+						<h3 class="subtitle-minor"></h3>
+						<p class="subtext-minor">
 						</p>
 					</div>
 				</div>

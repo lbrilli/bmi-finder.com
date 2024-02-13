@@ -3,6 +3,7 @@
 		<a href="<?php echo __DIR__; ?>">Home</a> <a href="<?php echo $host; ?>interpretation/">Interpreting BMI results</a>
 		<a href="<?php echo $host; ?>myths/">BMI: Beyond the Myths</a>  <a href="<?php echo $host; ?>limitations/">Limitations of BMI</a>
 		<a href="<?php echo $host; ?>fuel-your-life/">Fuel Your Life: Nutrition Basics and Choices</a>
+		<a href="<?php echo $host; ?>couch-potato/">From Couch Potato to Champion: Real People, Real Transformations</a>
 		<a href="<?php echo $host; ?>body-positivity/">Ditch the Scales, Embrace the Whole You</a>
 		<a href="<?php echo $host; ?>weight-management/">Healthy weight management</a>
 		<a href="<?php echo $host; ?>quick-easy-recipes/">Quick and Easy Weeknight Meals</a>
