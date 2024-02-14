@@ -410,7 +410,6 @@
 						</p>
 					</div>
 					<hr/>
-					<h2>Here's a preview of what you can learn on BMI Finder:</h2>
 					<div class="section minor">
 						<h3 class="subtitle-minor">Navigating the Delicious World of Nutrition: Basics and Choices for YOU</h3>
 						<p class="subtext-minor">Understanding one's own requirements such as age, activity level, 
@@ -444,8 +443,11 @@
 					<div class="section minor">
 						<h3 class="subtitle-minor"></h3>
 						<p class="subtext-minor">
+						<br>
+						<a href="<?php echo $host; ?>mind-and-body/">Read the full post</a>
 						</p>
 					</div>
+					<hr/>
 				</div>
 			</div>
 		</div>
