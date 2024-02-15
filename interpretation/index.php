@@ -219,7 +219,7 @@
 							<ul>
 								<li><b>Below 18.5:</b> This falls into the underweight range. It could indicate health risks like malnutrition or osteoporosis.</li>
 								<li><b>18.5 to 24.9:</b> This is the healthy weight range. It's generally considered desirable for most adults.</li>
-								<li><b>25 to 29.9:</b> This is the overweight range. It's not necessarily unhealthy, but it might increase your risk of certain health problems like heart disease and type 2 diabetes.</li>
+								<li><b>25 to 29.9:</b> This is the overweight range. It's not necessarily unhealthy, but it might increase your risk of certain health problems, like heart disease and type 2 diabetes.</li>
 								<li><b>30 or above:</b> This falls into the obesity range. It's associated with increased risks of various health problems.</li>
 							</ul>		
 						</p>
@@ -231,9 +231,9 @@
 						<h3 class="subtitle-minor">Important things to keep in mind:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b>BMI doesn't account for body composition:</b> Muscle is denser than fat, so someone with a lot of muscle mass might have a high BMI even if they have low body fat. This is why <b> BMI isn't always accurate for athletes or people who weight train a lot.</b></li>
-								<li><b>Age, sex, and ethnicity can influence BMI:</b> Different BMI ranges might be used for children, pregnant or breastfeeding women, and older adults. It's also important to consider that BMI thresholds for health risks may vary depending on ethnicity.</li>
-								<li><b>BMI is just a screening tool: </b> It shouldn't be used to diagnose any health conditions. If you're concerned about your weight or health, talk to your doctor. They can consider your BMI along with other factors like your body composition, medical history, and family history to give you a more personalized assessment.</li>
+								<li><b>BMI doesn't account for body composition.</b> Muscle is denser than fat, so someone with a lot of muscle mass might have a high BMI even if they have low body fat. This is why <b> BMI isn't always accurate for athletes or people who weight train a lot.</b></li>
+								<li><b>Age, sex, and ethnicity can influence BMI.</b> Different BMI ranges might be used for children, pregnant or breastfeeding women, and older adults. It's also important to consider that BMI thresholds for health risks may vary depending on ethnicity.</li>
+								<li><b>BMI is just a screening tool; </b> it shouldn't be used to diagnose any health conditions. If you're concerned about your weight or health, talk to your doctor. They can consider your BMI along with other factors like your body composition, medical history, and family history to give you a more personalized assessment.</li>
 							</ul>		
 						</p>
 					</div>
