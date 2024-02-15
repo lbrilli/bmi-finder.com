@@ -211,10 +211,10 @@
 				<div class="content-inner">
 					<h1>BMI: Beyond the Myths</h1>
 					<div class="section minor">
-					<p> BMI (Body Mass Index) is a widely used tool, but it's crucial to understand its limitations and debunk surrounding myths:</p>
+					<p> BMI (body mass index) is a widely used tool, but it's crucial to understand its limitations and debunk the surrounding myths:</p>
 						<br>
 						<h3 class="subtitle-minor"> Myth 1: BMI measures body fat.</h3>
-						<p class="subtext-minor"> <b>Fact:</b> BMI only uses height and weight, not directly measuring body fat. Muscle mass is denser than fat, so someone with high muscle mass could have a high BMI despite low body fat. Conversely, someone with low muscle mass could have a normal BMI but higher body fat percentage.
+						<p class="subtext-minor"> <b>Fact:</b> BMI only uses height and weight, not directly measuring body fat. Muscle mass is denser than fat, so someone with high muscle mass could have a high BMI despite low body fat. Conversely, someone with low muscle mass could have a normal BMI but a higher body fat percentage.
 						</p>
 					</div>
 					<hr/>
@@ -230,7 +230,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor"> Myth 3: A high BMI automatically means poor health.</h3>
-						<p class="subtext-minor"> <b>Fact:</b> While a high BMI can increase the risk of certain health problems, it's not a definitive indicator of overall health. Other factors like diet, exercise, genetics, and body fat distribution play a significant role.
+						<p class="subtext-minor"> <b>Fact:</b> While a high BMI can increase the risk of certain health problems, it's not a definitive indicator of overall health. Other factors, like diet, exercise, genetics, and body fat distribution, play a significant role.
 						</p>
 					</div>
 					<hr/>
@@ -246,7 +246,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor"> Myth 5: BMI is useless.</h3>
-						<p class="subtext-minor"> <b>Fact:</b> Despite its limitations, BMI can be a starting point for assessing weight-related health risks, especially for large populations. However, it shouldn't be used for individual diagnoses or solely guiding health decisions.
+						<p class="subtext-minor"> <b>Fact:</b> Despite its limitations, BMI can be a starting point for assessing weight-related health risks, especially for large populations. However, it shouldn't be used for individual diagnoses or solely for guiding health decisions.
 						</p>
 					</div>
 					<hr/>
@@ -256,9 +256,9 @@
 						<h3 class="subtitle-minor"> Here are some alternative measures to consider alongside BMI for a more comprehensive picture:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li> <b>Waist circumference:</b> Measures central fat, which is more strongly linked to health risks than overall body fat.</li>
-								<li> <b>Bioelectrical impedance analysis (BIA):</b> Estimates body fat percentage using electrical currents.</li>
-								<li> <b>Dual-energy X-ray absorptiometry (DXA):</b> Provides precise measurements of body fat, muscle, and bone.</li>
+								<li> <b>Waist circumference</b> measures central fat, which is more strongly linked to health risks than overall body fat.</li>
+								<li> <b>Bioelectrical impedance analysis (BIA)</b> estimates body fat percentage using electrical currents.</li>
+								<li> <b>Dual-energy X-ray absorptiometry (DXA)</b> provides precise measurements of body fat, muscle, and bone.</li>
 							</ul>
 							<br>
 							Remember, BMI is just one tool in the toolbox. Consult a healthcare professional for personalized advice and a comprehensive assessment of your health.
