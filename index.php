@@ -364,14 +364,13 @@
 					<!-- This is where we can place supporting content about the tool, FAQ etc. -->
 					<div class="section minor">
 						<h3 class="subtitle-minor">About BMI Finder</h3>
-						<p class="subtext-minor">Calculate your Body Mass Index using your height and weight using this free online 
-							calculator. Find our your BMI using either imperial or metric measurements. BMI (Body Mass Index) is a 
+						<p class="subtext-minor">Calculate your Body Mass Index from your height and weight using this free online 
+							calculator. Find your BMI using either imperial or metric measurements. BMI (Body Mass Index) is a 
 							simple calculation that uses a person's height and weight to assess their weight status. It does not 
 							measure body fat directly, but it is a good indicator of where someone may stand. Learn more about
 							 <a href="<?php echo $host; ?>interpretation/">how to interpret your results,
-							</a> <a href="<?php echo $host; ?>limitations/">their limitations</a> and
-							 <a href="<?php echo $host; ?>myths/">myths of BMI</a> on our site. We also have content around
-							 <a href="<?php echo $host; ?>fuel-your-life/">nutrition</a>. 
+							</a> <a href="<?php echo $host; ?>limitations/">their limitations</a>, and
+							 <a href="<?php echo $host; ?>myths/">myths of BMI</a> on our site.
 						</p>
 					</div>
 					<hr/>
@@ -382,10 +381,10 @@
 									<li>To screen for weight-related health risks. A high BMI can be a sign of increased risk for chronic 
 										diseases such as heart disease, stroke, type 2 diabetes, and some types of cancer.</li>
 									<li>To track weight loss or gain over time. BMI can be used to track changes in weight status over time, 
-										which can help people stay motivated in their weight loss or weight gain goals. Learn more strategies for weight managment <a href="<?php echo $host; ?>weight-management/">here</a>.</li>
+										which can help people stay motivated in their weight loss or weight gain goals. Learn more strategies for healthy weight managment <a href="<?php echo $host; ?>weight-management/">here</a>.</li>
 									<li>To compare weight status to population norms. BMI can be used to compare a person's weight status to 
 										population norms, which can help people understand where they fall in terms of healthy weight.</li>
-									<li>It is important to note that BMI is not a perfect measure of body fatness. It does not take into 
+									<li>It is important to note that BMI is not a perfect measure of body fat makeup. It does not take into 
 										account muscle mass, bone density, or body composition. Therefore, it is important to talk to your 
 										doctor about your weight status and any concerns you may have. Learn more about its limitations <a href="<?php echo $host; ?>limitations/">here</a>.</li>
 								</ul>
@@ -429,7 +428,7 @@
 						<h3 class="subtitle-minor">From Couch Potato to Champion: Real People, Real Transformations</h3>
 						<p class="subtext-minor">This post offers inspiration and practical tips for those struggling with 
 							fitness. It features real people who have transformed their lives through positive lifestyle 
-							changes and shares simple workout routines at home, no gym required. The stories highlight the 
+							changes and shares simple workout routines for at home, no gym required. The stories highlight the 
 							power of small, consistent changes, finding activities you enjoy, and community support. Home 
 							workout routines include a bodyweight blast, cardio challenge, and strength and stretch 
 							exercises. It's important to start slow, gradually increase intensity and duration, listen to 
@@ -441,8 +440,16 @@
 					</div>
 					<hr/>
 					<div class="section minor">
-						<h3 class="subtitle-minor"></h3>
-						<p class="subtext-minor">
+						<h3 class="subtitle-minor">Mind and Body: Exploring the Connection Between Mental Health and Well-being</h3>
+						<p class="subtext-minor">This post explores the connection between mental health and physical well-being; it's 
+							profound, as neglecting mental well-being can lead to physical symptoms like fatigue, headaches, and weakened immune 
+							function. Our brains and bodies communicate through a complex network of hormones, neurotransmitters, and 
+							the nervous system. Regular exercise promotes the release of endorphins which are natural mood-boosters, 
+							contributing to feelings of happiness and well-being. To foster both mental and physical well-being, 
+							it is essential to move your body, nourish your brain with nutritious foods, get enough sleep, 
+							connect with others, practice mindfulness, and seek professional help. Taking care of mental health is 
+							just as important as physical health, and incorporating these tips into daily life can lead to a holistic 
+							approach to well-being. Seeking professional help is crucial for improving your quality of life.
 						<br>
 						<a href="<?php echo $host; ?>mind-and-body/">Read the full post</a>
 						</p>
