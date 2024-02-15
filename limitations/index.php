@@ -211,7 +211,7 @@
 					<div class="content-inner">
 						<h1>Limitations of BMI</h1>
 						<div class="section minor">
-							<h3 class="subtitle-minor">BMI doesn't distinguish between muscle and fat:</h3>
+							<h3 class="subtitle-minor">BMI doesn't distinguish between muscle and fat.</h3>
 							<p class="subtext-minor">A person with a lot of muscle mass will have a higher BMI than someone with the same weight but less muscle. This is because BMI is simply a calculation of weight divided by height squared, and it doesn't take into account body composition. So, a muscular athlete could be classified as overweight or obese according to their BMI, even though they are perfectly healthy.						
 							</p>
 						</div>
@@ -219,7 +219,7 @@
 					</div>
 					<div class="content-inner">
 						<div class="section minor">
-							<h3 class="subtitle-minor">BMI doesn't consider age and sex:</h3>
+							<h3 class="subtitle-minor">BMI doesn't consider age and sex.</h3>
 							<p class="subtext-minor">The relationship between BMI and health risks can vary depending on age and sex. For example, older adults tend to have a higher percentage of body fat than younger adults, even if their BMI is in the normal range. Similarly, women naturally have a higher percentage of body fat than men, even at the same BMI. This means that the same BMI category may not have the same health implications for everyone.					
 							</p>
 						</div>
@@ -227,7 +227,7 @@
 					</div>
 					<div class="content-inner">
 						<div class="section minor">
-							<h3 class="subtitle-minor">BMI doesn't account for body fat distribution:</h3>
+							<h3 class="subtitle-minor">BMI doesn't account for body fat distribution.</h3>
 							<p class="subtext-minor">Where you carry your body fat is more important for health than how much you weigh. People who store fat around their waist (apple-shaped) are at higher risk of health problems than those who store fat around their hips and thighs (pear-shaped). However, BMI doesn't tell you anything about where your fat is distributed.
 							</p>
 						</div>
@@ -235,7 +235,7 @@
 					</div>
 					<div class="content-inner">
 						<div class="section minor">
-							<h3 class="subtitle-minor">BMI can be inaccurate for certain people:</h3>
+							<h3 class="subtitle-minor">BMI can be inaccurate for certain people.</h3>
 							<p class="subtext-minor">BMI can be inaccurate for people who are pregnant, breastfeeding, or very muscular. It can also be inaccurate for people with certain medical conditions, such as ascites (fluid buildup in the abdomen).				
 							</p>
 						</div>
@@ -243,7 +243,7 @@
 					</div>
 					<div class="content-inner">
 						<div class="section minor">
-							<h3 class="subtitle-minor">BMI is just a starting point:</h3>
+							<h3 class="subtitle-minor">BMI is just a starting point.</h3>
 							<p class="subtext-minor">BMI is a useful tool for screening for potential health risks, but it should not be used as the only measure of health. Other factors, such as diet, exercise, and family history, also play a role in health. If you are concerned about your weight or health, it is important to talk to your doctor.		
 							</p>
 						</div>
