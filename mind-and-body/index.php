@@ -232,23 +232,30 @@
 								<li><b>Connect with others:</b> Social interaction is vital for mental health. Spend time with loved ones, join a club or group, or volunteer in your community.</li>
 								<li><b>Practice mindfulness:</b> Mindfulness techniques like meditation and deep breathing can help you manage stress and cultivate calmness.</li>
 								<li><b>Seek professional help:</b> If you're struggling with mental health challenges, don't hesitate to seek professional help. Therapists can provide guidance, support, and effective treatment strategies.</li>
-							</ul>			
+							</ul>		
+							<br>
+							<b>Remember:</b> Taking care of your mental health is just as important as taking care of your physical health. By incorporating these tips into your daily life, you can cultivate a holistic approach to well-being and experience the positive impact on both your mind and body.	
 						</p>
 					</div>
 					<hr/>
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor"></h3>
-						<p class="subtext-minor">						
-						</p>
-					</div>
-					<hr/>
-				</div>
-				<div class="content-inner">
-					<div class="section minor">
-						<h3 class="subtitle-minor"></h3>
-						<p class="subtext-minor">						
+						<h3 class="subtitle-minor">Seeking Professional Help:</h3>
+						<p class="subtext-minor">If you're experiencing symptoms of mental health challenges such as anxiety, depression, or persistent emotional distress, it's crucial to seek professional help. There is no shame in seeking help, and doing so can significantly improve your quality of life.					
+						<br>
+						Here are some resources to help you find professional help:
+						<br>
+						<br>
+						<ul>
+							<li><b>National Alliance on Mental Illness (NAMI):</b> 1-800-950-NAMI (6264)</li>
+							<li><b>MentalHealth.gov:</b> <a target="_blank" href="https://mentalhealthtx.org/"> https://mentalhealthtx.org/</a> </li>
+							<li><b>The Jed Foundation:</b> <a target="_blank" href="https://jedfoundation.org/"> https://jedfoundation.org/</a> </li>
+							<li><b>The Trevor Project:</b> 1-866-488-7386</li>
+							<li><b>Crisis Text Line:</b> Text HOME to 741741</li>
+						</ul>
+						<br>
+						Remember, you are not alone. Taking care of your mental health is an investment in your overall well-being, and by prioritizing it, you pave the way for a happier, healthier, and more fulfilling life.
 						</p>
 					</div>
 					<hr/>
