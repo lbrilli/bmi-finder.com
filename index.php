@@ -322,7 +322,7 @@
 						<div class="section-minor">
 							<p>
 							Check out our other pages to learn to
-							<a href="<?php echo $host; ?>interpretation/">interpret your results,</a> to understand 
+							<a href="<?php echo $host; ?>interpretation/">interpret your results,</a> to understand the
 							<a href="<?php echo $host; ?>limitations/">limitations</a> and
 							<a href="<?php echo $host; ?>myths/"> myths</a> of BMI, and to see
 							<a href="<?php echo $host; ?>body-positivity/">strategies for body positivity</a> and
@@ -352,7 +352,7 @@
 									<td>BMI is 30 or more</td>
 								</tr>
 							</table>
-							<caption>*These are not definitive labels, and do not take into account individual factors. Consult a healthcare professional to learn more about your results.</caption>
+							<caption>*These are not definitive labels and do not take into account individual factors. Consult a healthcare professional to learn more about your results.</caption>
 						</div>
 					</div>
 						<div class="bottomad">					
@@ -364,13 +364,13 @@
 					<!-- This is where we can place supporting content about the tool, FAQ etc. -->
 					<div class="section minor">
 						<h3 class="subtitle-minor">About BMI Finder</h3>
-						<p class="subtext-minor">Calculate your Body Mass Index from your height and weight using this free online 
-							calculator. Find your BMI using either imperial or metric measurements. BMI (Body Mass Index) is a 
+						<p class="subtext-minor">Calculate your body mass index from your height and weight using this free online 
+							calculator. Find your BMI using either imperial or metric measurements. BMI (body mass index) is a 
 							simple calculation that uses a person's height and weight to assess their weight status. It does not 
 							measure body fat directly, but it is a good indicator of where someone may stand. Learn more about
 							 <a href="<?php echo $host; ?>interpretation/">how to interpret your results,
 							</a> <a href="<?php echo $host; ?>limitations/">their limitations</a>, and
-							 <a href="<?php echo $host; ?>myths/">myths of BMI</a> on our site.
+							 <a href="<?php echo $host; ?>myths/">myths about BMI</a> on our site.
 						</p>
 					</div>
 					<hr/>
