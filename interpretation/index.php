@@ -214,8 +214,8 @@
 					<div class="section minor">
 					<p>Interpreting your BMI result may seem straightforward but BMI is only one measure of your health. Here’s what you need to know: </p>
 					<br>
-					<hr>
 					<p>BMI can be calculated by dividing your weight, in kilograms, by your height, in meters squared. For example, a person who weighs 120 lb and is 66 in tall has a weight of 54.44kg and a height of 1.67m. Their BMI is roughly 21.8.</p>
+					<hr>
 					<h3 class="subtitle-minor">BMI results and what they mean:</h3>
 						<p class="subtext-minor">
 							<ul>
