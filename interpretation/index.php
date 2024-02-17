@@ -212,15 +212,17 @@
 					<h1>Interpreting BMI results</h1>
 					<br>
 					<div class="section minor">
-					<p>Interpreting BMI results can be straightforward, but it's important to remember that BMI is just one piece of the puzzle when it comes to understanding your health. Here's what you need to know:</p>
-					<br>	
-					<h3 class="subtitle-minor">BMI ranges and their meanings:</h3>
+					<p>Interpreting your BMI result may seem straightforward but BMI is only one measure of your health. Here’s what you need to know: </p>
+					<br>
+					<br>
+					<p>BMI can be calculated by dividing your weight, in kilograms, by your height, in meters squared. For example, a person who weighs 120 lb and is 66 in tall has a weight of 54.44kg and a height of 1.67m. Their BMI is roughly 21.8.</p>
+					<h3 class="subtitle-minor">BMI results and what they mean:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b>Below 18.5:</b> This falls into the underweight range. It could indicate health risks like malnutrition or osteoporosis.</li>
-								<li><b>18.5 to 24.9:</b> This is the healthy weight range. It's generally considered desirable for most adults.</li>
-								<li><b>25 to 29.9:</b> This is the overweight range. It's not necessarily unhealthy, but it might increase your risk of certain health problems, like heart disease and type 2 diabetes.</li>
-								<li><b>30 or above:</b> This falls into the obesity range. It's associated with increased risks of various health problems.</li>
+								<li><b>Below 18.5:</b>This is considered underweight. You might be at risk for malnutrition or osteoporosis if you don’t up your calorie intake.</li>
+								<li><b>18.5 to 24.9:</b>The ideal BMI. This is considered well within the healthy weight range and what most doctors are looking for across the spectrum of adulthood.</li>
+								<li><b>25 to 29.9:</b>This is the overweight range. It’s not particularly unhealthy, but it increases your risk of health problems such as heart disease and type 2 diabetes.</li>
+								<li><b>30 or above:</b>That’s in the obesity range. It greatly increases your risk of health problems.</li>
 							</ul>		
 						</p>
 					</div>
@@ -228,12 +230,12 @@
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor">Important things to keep in mind:</h3>
+						<h3 class="subtitle-minor">Important things to keep in mind as you interpret your BMI:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b>BMI doesn't account for body composition.</b> Muscle is denser than fat, so someone with a lot of muscle mass might have a high BMI even if they have low body fat. This is why <b> BMI isn't always accurate for athletes or people who weight train a lot.</b></li>
-								<li><b>Age, sex, and ethnicity can influence BMI.</b> Different BMI ranges might be used for children, pregnant or breastfeeding women, and older adults. It's also important to consider that BMI thresholds for health risks may vary depending on ethnicity.</li>
-								<li><b>BMI is just a screening tool; </b> it shouldn't be used to diagnose any health conditions. If you're concerned about your weight or health, talk to your doctor. They can consider your BMI along with other factors like your body composition, medical history, and family history to give you a more personalized assessment.</li>
+								<li><b>BMI doesn’t account for body composition.</b> Since muscle is denser than fat, those with a lot of muscle may end up with an “unhealthy” BMI yet have low body fat. This is why BMI may not be as accurate in athletes or those who weight train significantly.</li>
+								<li><b>BMI is also age, sex, and ethnicity-dependent.</b> For children, pregnant or breastfeeding women as well as older adults, different BMI ranges can be used.</li>
+								<li><b>BMI simply screens for health conditions, it’s not a diagnosis.</b> If you are concerned about your weight or health, ask your doctor. Your BMI is only one factor they consider, along with your body composition, medical history and family history, to give you a unique assessment.</li>
 							</ul>		
 						</p>
 					</div>
@@ -241,7 +243,7 @@
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor">Here are some resources that you might find helpful:</h3>
+						<h3 class="subtitle-minor">If you’d like some reputable resources on this subject, consider any of these:</h3>
 						<p class="subtext-minor">
 							<ul>
 								<li><b>National Institutes of Health:</b> <a href="https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity" target="_blank">https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity</a></li>
