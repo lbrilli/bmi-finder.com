@@ -378,15 +378,10 @@
 						<h3 class="subtitle-minor">What can I use my BMI for?</h3>
 							<p class="subtext-minor">
 								<ul>
-									<li>To screen for weight-related health risks. A high BMI can be a sign of increased risk for chronic 
-										diseases such as heart disease, stroke, type 2 diabetes, and some types of cancer.</li>
-									<li>To track weight loss or gain over time. BMI can be used to track changes in weight status over time, 
-										which can help people stay motivated in their weight loss or weight gain goals. Learn more strategies for healthy weight managment <a href="<?php echo $host; ?>weight-management/">here</a>.</li>
-									<li>To compare weight status to population norms. BMI can be used to compare a person's weight status to 
-										population norms, which can help people understand where they fall in terms of healthy weight.</li>
-									<li>It is important to note that BMI is not a perfect measure of body fat makeup. It does not take into 
-										account muscle mass, bone density, or body composition. Therefore, it is important to talk to your 
-										doctor about your weight status and any concerns you may have. Learn more about its limitations <a href="<?php echo $host; ?>limitations/">here</a>.</li>
+									<li>You can screen for weight-related health risks. A high BMI can be a sign of increased risk for chronic diseases such as heart disease, stroke, type 2 diabetes, and some types of cancer. It is important to get regular checkups and to talk to your doctor about your weight and health risks. Eating a balanced diet and exercising regularly can help maintain a healthy weight..</li>
+									<li>You can track your weight loss or gain over time, which can help you stay motivated in your weight loss or weight gain goals. Learn more strategies for healthy weight managment <a href="<?php echo $host; ?>weight-management/">here</a>.</li>
+									<li>You can compare your BMI to the BMI’s of the general population, which can help you understand where you fall compared to others.</li>
+									<li>It is important to note that BMI is not a perfect measure of body fat makeup. It does not take into account muscle mass, bone density, or body composition. Therefore, it is important to talk to your doctor about your weight status and any concerns you may have. Learn more about its limitations <a href="<?php echo $host; ?>limitations/">here</a>.</li>
 								</ul>
 							</p>
 					</div>
@@ -395,30 +390,17 @@
 						<h3 class="subtitle-minor">What can I use BMI Finder for?</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li>To determine your weight category. BMI is classified into four categories: underweight, normal weight, 
-									overweight, and obese. Your weight category can help you understand your risk for health problems 
-									related to weight.</li>
-								<li>To track your weight over time. BMI can be used to track changes in weight over time, which can help you 
-									stay motivated in your weight loss or weight gain goals.</li>
-								<li>To compare your weight to the average weight for your age and sex. BMI can be used to compare your weight 
-									to the average weight for your age and sex, which can help you understand if your weight is within a 
-									healthy range.</li>
-								<li>If you are concerned about your weight or weight status, talk to your doctor. They can help you 
-									understand your BMI and what it means for your health.</li>
+								<li>You can find out which of four weight categories your BMI falls in: underweight, normal weight, overweight, and obese. Your weight category can help you understand your risk for health problems related to your weight.</li>
+								<li>You can track positive and negative BMI changes, which can help you stay motivated in your weight loss or your weight gain goals. Remember, not all “weight” is created equal – so this should just be a directional measure.</li>
+								<li>You can compare your newly found BMI to the average BMI for your age and sex, which can help you understand if your weight is within a healthy range.</li>
+								<li>If you are concerned about your weight or weight status, talk to your doctor. They can help you understand your BMI and what it means for your health.</li>
 							</ul>
 						</p>
 					</div>
 					<hr/>
 					<div class="section minor">
 						<h3 class="subtitle-minor">Navigating the Delicious World of Nutrition: Basics and Choices for YOU</h3>
-						<p class="subtext-minor">Understanding one's own requirements such as age, activity level, 
-							and medical conditions is the cornerstone of good nutrion. While adults require complex 
-							carbs for long-term energy and muscle repair, children require a balanced diet of 
-							protein, carbohydrates, healthy fats, vitamins, and minerals. Nutrient-dense diets are 
-							essential for seniors' healthy bones. Protein and carbs are needed in greater amounts 
-							by active people, but meals high in fiber are needed by inactive people. Special 
-							attention is needed for health issues such as allergies, heart disease, and diabetes. 
-							Encouraging people to make healthy decisions that suit their interests and lifestyle is the aim.
+						<p class="subtext-minor">The first step to forming good nutritional habits is knowing your own personal attributes such as age, activity level, and medical conditions. For example, the average adult requires complex carbohydrates for long-term energy and muscle repair. Conversely, the average child nearly always requires a balanced diet of protein, carbohydrates, healthy fats, vitamins, and minerals. Our grandparents, on the other hand, should focus on consuming a nutrient-dense diet to maintain healthy bones. In addition to these generalizations, active people often require more protein and carbs, while less active people require meals high in fiber. However, much of this might change for you if you have a health condition such as diabetes or heart disease, for example (there are many other possible health conditions that could influence your nutrition). This blog post will explore all of these things, and ideally give you an idea of where to start on your journey to better nutrition. 
 							<br>
 							<a href="<?php echo $host; ?>fuel-your-life/">Read the full post</a>
 						</p>
@@ -426,30 +408,15 @@
 					<hr/>
 					<div class="section minor">
 						<h3 class="subtitle-minor">From Couch Potato to Champion: Real People, Real Transformations</h3>
-						<p class="subtext-minor">This post offers inspiration and practical tips for those struggling with 
-							fitness. It features real people who have transformed their lives through positive lifestyle 
-							changes and shares simple workout routines for at home, no gym required. The stories highlight the 
-							power of small, consistent changes, finding activities you enjoy, and community support. Home 
-							workout routines include a bodyweight blast, cardio challenge, and strength and stretch 
-							exercises. It's important to start slow, gradually increase intensity and duration, listen to 
-							your body, take rest days when needed, celebrate progress, and have fun. Tracking progress with 
-							a fitness app or journal can be a powerful motivator.
+						<p class="subtext-minor">If you’re like me, you need to see results. You want to see real people who have transformed their lives. You want to see the power of small, consistent changes, finding activities you enjoy, and having a community to support you. You want simple workout routines for at home – no gym required! This blog post checks all those boxes. You should come away ready to crush your workouts! Just remember, it's important for you to start slow on your workouts, and gradually increase your intensity and duration. Track your progress, and make sure to celebrate wins and have fun along the way. 
 							<br>
 							<a href="<?php echo $host; ?>couch-potato/">Read the full post</a>
 						</p>
 					</div>
 					<hr/>
 					<div class="section minor">
-						<h3 class="subtitle-minor">Mind and Body: Exploring the Connection Between Mental Health and Well-being</h3>
-						<p class="subtext-minor">This post explores the connection between mental health and physical well-being; it's 
-							profound, as neglecting mental well-being can lead to physical symptoms like fatigue, headaches, and weakened immune 
-							function. Our brains and bodies communicate through a complex network of hormones, neurotransmitters, and 
-							the nervous system. Regular exercise promotes the release of endorphins which are natural mood-boosters, 
-							contributing to feelings of happiness and well-being. To foster both mental and physical well-being, 
-							it is essential to move your body, nourish your brain with nutritious foods, get enough sleep, 
-							connect with others, practice mindfulness, and seek professional help. Taking care of mental health is 
-							just as important as physical health, and incorporating these tips into daily life can lead to a holistic 
-							approach to well-being. Seeking professional help is crucial for improving your quality of life.
+						<h3 class="subtitle-minor">The Connection Between Mental Health and Physical Well-being</h3>
+						<p class="subtext-minor">This post is about how your mental health affects your physical well being. It is a scientific fact that mental health is important and taking care of it can reduce physical symptoms such as headaches, fatigue and a weak immune function. To help reduce these pesky symptoms, it is crucial to exercise. Exercising releases endorphins which will make you feel better. People who want to exercise need nutrition to fuel their bodies and quality rest so they are energized the next day, so make sure to do that. These simple things help mental health a lot because they help you gain confidence within yourself. Mental health is just as important as physical health so if you incorporate these tips into your daily life then it can be the base of your well-being.
 						<br>
 						<a href="<?php echo $host; ?>mind-and-body/">Read the full post</a>
 						</p>
