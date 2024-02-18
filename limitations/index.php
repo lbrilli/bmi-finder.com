@@ -211,48 +211,40 @@
 					<div class="content-inner">
 						<h1>Limitations of BMI</h1>
 						<div class="section minor">
-							<h3 class="subtitle-minor">BMI doesn't distinguish between muscle and fat.</h3>
-							<p class="subtext-minor">A person with a lot of muscle mass will have a higher BMI than someone with the same weight but less muscle. This is because BMI is simply a calculation of weight divided by height squared, and it doesn't take into account body composition. So, a muscular athlete could be classified as overweight or obese according to their BMI, even though they are perfectly healthy.						
+							<h3 class="subtitle-minor">BMI can’t distinguish between muscle mass, bone density, and fat</h3>
+							<p class="subtext-minor">A 6 foot, 185 pound bodybuilder will have a BMI of 25.09 which is squarely inside the range that the National Institutes of Health defines as overweight. This is because BMI is calculated by dividing a person’s weight by the square of his or her height (72in x 72in = 5184 inches squared) and then multiplying that by 703. Is that person overweight? Of course not. BMI fails to account for a person’s body composition: his or her percentage of muscles, fat and bones. Instead, it’s a catch-all that can label an NFL player or other muscular athlete as overweight – or even obese (a BMI higher than 30) simply for having more muscle mass.
 							</p>
 						</div>
 						<hr/>
 					</div>
 					<div class="content-inner">
 						<div class="section minor">
-							<h3 class="subtitle-minor">BMI doesn't consider age and sex.</h3>
-							<p class="subtext-minor">The relationship between BMI and health risks can vary depending on age and sex. For example, older adults tend to have a higher percentage of body fat than younger adults, even if their BMI is in the normal range. Similarly, women naturally have a higher percentage of body fat than men, even at the same BMI. This means that the same BMI category may not have the same health implications for everyone.					
+							<h3 class="subtitle-minor">BMI can’t account for age or sex</h3>
+							<p class="subtext-minor">BMI is a universal assessment however, there are important distinctions in the relationship between BMI and health risks that depend on age and sex. On average, older adults aged over 70-75 years have a consistently higher percentage of body fat, irrespective of the level of BMI. The same is true of women compared with men, who hold more body fat than men even at a given level of BMI. So the same BMI category does not indicate the same level of health risk for (older) women or (older) men, compared with (younger) women or (younger) men.
 							</p>
 						</div>
 						<hr/>
 					</div>
 					<div class="content-inner">
 						<div class="section minor">
-							<h3 class="subtitle-minor">BMI doesn't account for body fat distribution.</h3>
-							<p class="subtext-minor">Where you carry your body fat is more important for health than how much you weigh. People who store fat around their waist (apple-shaped) are at higher risk of health problems than those who store fat around their hips and thighs (pear-shaped). However, BMI doesn't tell you anything about where your fat is distributed.
+							<h3 class="subtitle-minor">BMI doesn't account for the different types of body fat</h3>
+							<p class="subtext-minor">You’re better off knowing where you carry your weight than how much you weigh. Those with so-called apple-shaped fat distributions — i.e., who store it around the waist — are far more likely to develop Type 2 diabetes, heart disease, breast and uterine cancers and other health problems than those who are pear-shaped, which is when fat accumulates around the hips and thighs. But you can’t tell where fat is stored from BMI.
 							</p>
 						</div>
 						<hr/>
 					</div>
 					<div class="content-inner">
 						<div class="section minor">
-							<h3 class="subtitle-minor">BMI can be inaccurate for certain people.</h3>
-							<p class="subtext-minor">BMI can be inaccurate for people who are pregnant, breastfeeding, or very muscular. It can also be inaccurate for people with certain medical conditions, such as ascites (fluid buildup in the abdomen).				
+							<h3 class="subtitle-minor">BMI is inaccurate for people who have circumstances that cause uneven distribution of weight</h3>
+							<p class="subtext-minor">BMI isn’t perfect; pregnant women and those who are lactating are likely to have meatier arms. Body builders and others with large muscle mass are also prone to inaccuracies. Persons with ascites, a fluid that accumulates in the abdomen due to cirrhosis or another health condition, have an uneven distribution of their weight as well.
 							</p>
 						</div>
 						<hr/>
 					</div>
 					<div class="content-inner">
 						<div class="section minor">
-							<h3 class="subtitle-minor">BMI is just a starting point.</h3>
-							<p class="subtext-minor">BMI is a useful tool for screening for potential health risks, but it should not be used as the only measure of health. Other factors, such as diet, exercise, and family history, also play a role in health. If you are concerned about your weight or health, it is important to talk to your doctor.		
-							</p>
-						</div>
-						<hr/>
-					</div>
-					<div class="content-inner">
-						<div class="section minor">
-							<h3 class="subtitle-minor">Here are some additional limitations of BMI:</h3>
-							<p class="subtext-minor">It can be difficult to measure height and weight accurately, which can affect the accuracy of the BMI calculation. BMI is based on outdated data from the 19th century. There is no single BMI cutoff point that is considered healthy for everyone. Despite its limitations, BMI is still a widely used tool for assessing weight and health risks. However, it is important to be aware of its limitations and to use it in conjunction with other measures of health.				
+							<h3 class="subtitle-minor">BMI can be used as a starting point</h3>
+							<p class="subtext-minor">BMI is a good way to screen for risk factors – but it’s not the most important measure of health out there. Looking at your diet, exercise and family history can also help to give you some idea of your health, and can be done alongside BMI measurement. If you are worried about your weight or health, make sure to speak with a doctor. 
 							</p>
 						</div>
 						<hr/>
