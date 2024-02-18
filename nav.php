@@ -11,7 +11,7 @@
 		<a class="nav-item" href="<?php echo $host; ?>limitations/">Limitations of BMI</a>
 		<div class="nav-divider"></div>
 		<div class="nav-header">Health and wellness</div>
-		<a class="nav-item" href="<?php echo $host; ?>fuel-your-life/">Fuel Your Life: Nutrition Basics and Choices</a>
+		<a class="nav-item" href="<?php echo $host; ?>fuel-your-life/">Fueling your life with the right nutrition</a>
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>couch-potato/">From Couch Potato to Champion: Real People, Real Transformations</a>
 		<div class="nav-divider"></div>

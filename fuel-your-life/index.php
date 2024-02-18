@@ -8,7 +8,7 @@
 		<script async src="https://cdn.ampproject.org/v0.js"></script>
 		<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 		<!-- Header Meta Tags -->
-		<title><?php echo $websitename; ?></title>
+		<title>Fueling your life with the right nutrition</title>
 		<meta name="robots" content="index,follow" />
 		<meta name="description" content="<?php echo $description; ?>"/>
 		<meta name="keywords" content="<?php echo $keywords; ?>"/>
@@ -209,19 +209,19 @@
 						<!-- This is where your 300x250 top ad code from Adsense goes -->
 				</div>
 				<div class="content-inner">
-					<h1>Navigating the Delicious World of Nutrition: Basics and Choices for YOU!</h1>
+					<h1>Fueling your life with the right nutrition</h1>
 					<br>
 					<div class="section minor">
-						<p>Welcome to your one-stop shop for all things nutrition! From understanding your unique needs to whipping up delicious and healthy meals, this page aims to serve as a starting off point to empower you to make informed choices about what fuels your body. Let's dive in!</p>
+						<p>Welcome to your one-stop shop! This page’s introduction to the world of nutrition will provide the skills needed for future deciding the contents and quantities of what enters your body. Dig in. </p>
 						<br>
-						<p><b>First things first:</b> understanding your individual needs is crucial. Age, activity level, and any existing health conditions play a significant role in what your body requires.</p>
+						<p>Step one: know yourself – what your body needs changes with age, activity level and current health condition.</p>
 						<br>
-						<h3 class="subtitle-minor">Age is just a number, but not in nutrition:</h3>
+						<h3 class="subtitle-minor">Age is just a number, except in nutrition:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b>Children:</b> Growing bodies need a balanced mix of protein, carbohydrates, healthy fats, vitamins, and minerals. Think colorful fruits and vegetables, whole grains, lean protein sources, and dairy for strong bones.</li>
-								<li><b>Adults:</b> Depending on your activity level, your focus might shift towards complex carbohydrates for sustained energy, adequate protein for muscle repair, and healthy fats for cell function.</li>
-								<li><b>Seniors:</b> As metabolism slows, nutrient-dense foods become even more important. Focus on easily digestible protein, fruits and vegetables rich in antioxidants, and calcium for bone health.</li>
+								<li><b>So, children:</b> Growing bodies need protein, carbohydrates, healthy fats, vitamins, minerals, and all the colors of the rainbow in fruits and vegetables. They also need whole grains and lean protein and dairy for their bones.</li>
+								<li><b>Adults:</b> If you are sedentary or modest in your activity level, you might favor complex carbs for your energy needs, proteins for repairing muscles, and fats for the function of your cells.</li>
+								<li><b>Seniors:</b> As your metabolism slows, nutrient-dense foods become even more crucial. Make sure your meals are full of easily digestible protein, fruits and vegetables high in antioxidants and calcium for bones.</li>
 							</ul>
 						</p>
 					</div>
@@ -229,11 +229,11 @@
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor">Moving your body matters:</h3>
+						<h3 class="subtitle-minor">Physical activity and its role in nutrition:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b>Active individuals:</b> You'll likely need more carbohydrates for energy, along with adequate protein to support muscle recovery. Electrolytes, found in fruits and vegetables, are also crucial for hydration.</li>
-								<li><b>Sedentary individuals:</b> Prioritize nutrient-dense foods to ensure you're getting all the necessary vitamins and minerals without exceeding calorie needs. Focus on fiber-rich fruits, vegetables, and whole grains to keep you feeling full.</li>
+								<li><b>Athletes:</b> You’ll probably need more carbs for fuel, plus enough protein for recovery, plus plenty of electrolytes, found in fruit and vegetables. </li>
+								<li><b>Sedentary people:</b> Make sure you get all of your vitamins and minerals with nutrient-dense foods, but remember to keep your calorie needs in mind. Fill up half your plate with vegetables and fruits, and a quarter of it with whole grains and carbohydrates.</li>
 							</ul>			
 						</p>
 					</div>
@@ -241,15 +241,15 @@
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor">Health conditions require special attention:</h3>
+						<h3 class="subtitle-minor">Some health conditions may require special nutritional attention:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b>Diabetes:</b> Managing blood sugar levels is key. Choose low-glycemic index carbohydrates, lean protein, and healthy fats.</li>
-								<li><b>Heart disease:</b> Focus on reducing saturated fat and cholesterol. Opt for lean protein sources, fruits, vegetables, and whole grains.</li>
-								<li><b>Allergies and intolerances:</b> Tailor your diet to your specific needs, ensuring you're getting the nutrients you require from alternative sources.</li>
+								<li><b>Diabetes:</b> this will have a profound effect on your blood sugar levels. Go for low-glycemic index (GI) carbohydrates (as compared with high-GI ones), lean protein and healthy fats.</li>
+								<li><b>Heart disease:</b> Incorporate foods that will help lower saturated fat and cholesterol, such as lean protein, fruits and vegetables, and whole grains.</li>
+								<li><b>Allergies and intolerances:</b> alter your diet accordingly, ensuring you get what your body needs through other sources but don’t negate the overall concepts. </li>
 							</ul>
 							<br>
-							Remember, this is your journey! We're here to provide information, inspiration, and tools to empower you to make healthy choices that fit your lifestyle and preferences.		
+							Keep in mind: This is your life! We just want to provide you with information, inspiration and tools to help you make healthy choices that work for your lifestyle and taste.
 						</p>
 					</div>
 					<hr/>
