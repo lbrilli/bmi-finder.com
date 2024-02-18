@@ -8,7 +8,7 @@
 		<script async src="https://cdn.ampproject.org/v0.js"></script>
 		<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 		<!-- Header Meta Tags -->
-		<title><?php echo $websitename; ?></title>
+		<title>Real People, Real Transformations</title>
 		<meta name="robots" content="index,follow" />
 		<meta name="description" content="<?php echo $description; ?>"/>
 		<meta name="keywords" content="<?php echo $keywords; ?>"/>
@@ -209,21 +209,16 @@
 						<!-- This is where your 300x250 top ad code from Adsense goes -->
 				</div>
 				<div class="content-inner">
-					<h1>From Couch Potato to Champion: Real People, Real Transformations</h1>
+					<h1>Real People, Real Transformations</h1>
 					<div class="section minor">
-						<p>Feeling stuck in a fitness rut? Believe it or not, you're not alone. 
-							But before you throw in the towel, read on! This post is brimming 
-							with inspiration and practical tips to jumpstart your journey to a 
-							healthier, happier you. We'll feature real people who transformed 
-							their lives through positive lifestyle changes, and share simple 
-							workout routines you can do at home, no gym required!</p>
+						<p>Think you’re in a fitness rut? You are, but don’t panic, you’re not alone. Just hear us out — this post is about how to jumpstart your way to a healthier, happier you, and features people who transformed their lives with simple positive lifestyle changes. Plus we have a few easy workout routines you can do, no gym required, in your own home.</p>
 						<br>
 						<h3 class="subtitle-minor">Success Stories to Spark Your Flame:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b>Meet Sarah:</b> After years of battling fatigue and low self-esteem, Sarah traded takeout for home-cooked meals and joined a running group. Today, she's a marathon finisher and inspires others through her blog.</li>
-								<li><b>Transforming Tim:</b> Tim, once intimidated by the gym, discovered the power of bodyweight exercises. Now, he does daily push-ups, planks, and lunges, feeling stronger and more confident than ever.</li>
-								<li><b>From Grandma to Glam-ma:</b> After a health scare, Mary, a grandmother of two, embraced yoga and found her inner athlete. She now leads weekly classes, proving age is just a number.</li>
+								<li><b>Sarah:</b>Over six years ago, I quit eating takeout and started cooking my own meals after years of fatigue and low self-esteem. Because of my lifestyle changes, I’m a marathon finisher with a blog that inspires others to get out there. </li>
+								<li><b>The Cardio Couch Potato:</b> Tim feared the gym, but found that bodyweight moves challenged him and built his strength. Every day, he does push-ups, planks and lunges. He’s stronger than ever.</li>
+								<li><b>From Grandma to Glam-ma:</b> After a health scare, Gen-Xer Mary became part athlete, and not only led a weekly class but also found herself inspiring her grandchildren who call her ‘not Grandma, but Glam-ma’.</li>
 							</ul>
 						</p>
 					</div>
@@ -234,9 +229,9 @@
 						<h3 class="subtitle-minor">These stories are a testament to the power of:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b>Small, consistent changes:</b> You don't need drastic life overhauls. Start with swapping sugary drinks for water, or replacing processed snacks with fruits and nuts.</li>
-								<li><b>Finding activities you enjoy:</b> Don't force yourself into workouts you hate. Explore dance, hiking, swimming, or team sports – discover what makes you move!</li>
-								<li><b>Community support:</b> Having a workout buddy or joining a fitness class can boost motivation and accountability.</li>
+								<li><b>Small changes:</b> You don’t need to radically change your life. Swap a sugary drink for water. Or swap a packaged snack for fruits and nuts.</li>
+								<li><b>Finding things you like to do:</b> Don’t beat yourself into a workout you loathe. Figure out what you enjoy: dance, hiking, paddling, team sports? Find out. </li>
+								<li><b>Community support:</b> Bring a friend to work out with you, or find a fitness class.</li>
 							</ul>
 						</p>
 					</div>
@@ -247,9 +242,9 @@
 						<h3 class="subtitle-minor">Ready to get moving? Here are some home workout routines to try:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b>Beginner Bodyweight Blast:</b> Do 3 sets of 10-12 reps of each exercise: squats, lunges, push-ups (modified if needed), planks, and jumping jacks. Rest 30 seconds between sets.</li>
-								<li><b>Cardio Challenge:</b> Alternate 30 seconds of jumping jacks, mountain climbers, and high knees with 30 seconds of rest for 10 minutes.</li>
-								<li><b>Strength & Stretch:</b> Use dumbbells, water bottles, or resistance bands for bicep curls, overhead presses, and rows. Finish with static stretches for major muscle groups.</li>
+								<li><b>The beginner’s Bodyweight Blast:</b> Do three sets of 10-12 reps each of squats, lunges, push-ups (on your knees if needed), planks, and jumping jacks. Rest 30 seconds between sets. </li>
+								<li><b>Cardio Challenge:</b> Do 30 seconds of jumping jacks, mountain climbers, and high knees alternately. After each move, do a 30-second rest. Repeat for 10 minutes.</li>
+								<li><b>T-shirt Fillers:</b> Perform bicep curls, overhead presses, and rows using dumbbells, water bottles or resistance bands, ending with static stretches of major muscle groups.</li>
 							</ul>
 						</p>
 					</div>
@@ -266,9 +261,9 @@
 								<li><b>Most importantly, have fun!</b></li>
 							</ul>
 							<br>
-							<b>Bonus Tip:</b> Track your progress with a fitness app or journal. Seeing your achievements can be a powerful motivator.
+							<b>Bonus Hack:</b> Use a fitness app or journal to record your numbers. Your improvements can be motivating. 
 							<br>
-							We believe in you! Remember, it's not about perfection, it's about progress. So lace up your shoes, put on your favorite playlist, and get moving! You've got this!
+							We believe in you! This isn’t about perfection – it’s about progress. Put your shoes on, turn on your music, and just do it. You can do it!
 						</p>
 					</div>
 					<hr/>
