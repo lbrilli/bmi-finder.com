@@ -209,12 +209,12 @@
 						<!-- This is where your 300x250 top ad code from Adsense goes -->
 				</div>
 				<div class="content-inner">
-					<h1>BMI: Beyond the Myths</h1>
+					<h1>Myths about BMI</h1>
 					<div class="section minor">
-					<p> BMI (body mass index) is a widely used tool, but it's crucial to understand its limitations and debunk the surrounding myths:</p>
+					<p>BMI is useful in specific ways. And far too many of the myths about it influence the way we talk, think, and counsel about weight.</p>
 						<br>
 						<h3 class="subtitle-minor"> Myth 1: BMI measures body fat.</h3>
-						<p class="subtext-minor"> <b>Fact:</b> BMI only uses height and weight, not directly measuring body fat. Muscle mass is denser than fat, so someone with high muscle mass could have a high BMI despite low body fat. Conversely, someone with low muscle mass could have a normal BMI but a higher body fat percentage.
+						<p class="subtext-minor">BMI measures only height and weight, using an indirect formula to determine body fat. Because muscle mass takes up less space than fat, someone with a lot of muscle can have a high BMI and still have a low percentage of fat. On the other hand, someone with less muscle can have a normal BMI and yet carry a higher percentage of body fat.
 						</p>
 					</div>
 					<hr/>
@@ -222,7 +222,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor"> Myth 2: A "healthy" BMI is 18.5-24.9 for everyone.</h3>
-						<p class="subtext-minor"> <b>Fact:</b> This range is a general guideline, but age, ethnicity, and sex can influence healthy BMI ranges. For example, older adults tend to lose muscle mass, making their "healthy" range slightly lower. Consulting a healthcare professional for personalized guidance is crucial.
+						<p class="subtext-minor">Although BMI is a reliable general guideline, age, ethnicity, and sex can influence what is healthy. For instance, as you age, you lose muscle mass, which can make your ‘healthy’ weight slightly lower. Ask your healthcare professional for more specifics.
 						</p>
 					</div>
 					<hr/>
@@ -230,7 +230,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor"> Myth 3: A high BMI automatically means poor health.</h3>
-						<p class="subtext-minor"> <b>Fact:</b> While a high BMI can increase the risk of certain health problems, it's not a definitive indicator of overall health. Other factors, like diet, exercise, genetics, and body fat distribution, play a significant role.
+						<p class="subtext-minor">Although a high BMI is thought to raise the risk of some health problems, it is not necessarily an accurate gauge of health. Much depends on a range of factors, including diet, exercise, genes and body fat distribution. 
 						</p>
 					</div>
 					<hr/>
@@ -238,7 +238,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor"> Myth 4: A low BMI always means good health.</h3>
-						<p class="subtext-minor"> <b>Fact:</b> Being underweight can also pose health risks like weakened immunity, osteoporosis, and nutrient deficiencies. Aiming for a healthy BMI within your individual range is important.
+						<p class="subtext-minor">Not true. Being underweight can be just as bad for your health, as it predisposes you to conditions such as diminished immunity, osteoporosis and a range of nutrient deficiencies. So, do your best to achieve a healthy BMI without getting sucked into confusing diets that promise results. You need only stay within a healthy BMI range for your own unique body. 
 						</p>
 					</div>
 					<hr/>
@@ -246,7 +246,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor"> Myth 5: BMI is useless.</h3>
-						<p class="subtext-minor"> <b>Fact:</b> Despite its limitations, BMI can be a starting point for assessing weight-related health risks, especially for large populations. However, it shouldn't be used for individual diagnoses or solely for guiding health decisions.
+						<p class="subtext-minor">Objectively not true. BMI will never be an accurate predictor of mortality risks in single individuals, but it isn’t meant to. It is meant to be a baseline to compare against. It can be used as a starting point for identifying potential health concerns, especially when applied across larger populations. 
 						</p>
 					</div>
 					<hr/>
@@ -256,12 +256,12 @@
 						<h3 class="subtitle-minor"> Here are some alternative measures to consider alongside BMI for a more comprehensive picture:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li> <b>Waist circumference</b> measures central fat, which is more strongly linked to health risks than overall body fat.</li>
-								<li> <b>Bioelectrical impedance analysis (BIA)</b> estimates body fat percentage using electrical currents.</li>
-								<li> <b>Dual-energy X-ray absorptiometry (DXA)</b> provides precise measurements of body fat, muscle, and bone.</li>
+								<li> <b>Waist circumference</b> measures central fat around the waist, which is a better indicator of health risks than overall body fat.</li>
+								<li> <b>Bioelectrical impedance analysis (BIA)</b> estimates body fat percentage using electrical currents, which is more accurate than BMI but still not exact.</li>
+								<li> <b>Dual-energy X-ray absorptiometry (DXA)</b> provides precise measurements of body fat, muscle, and bone, and is the most accurate way to assess body fat.</li>
 							</ul>
 							<br>
-							Remember, BMI is just one tool in the toolbox. Consult a healthcare professional for personalized advice and a comprehensive assessment of your health.
+							Remember, BMI is just one tool in your toolbox. Consult a healthcare professional for personalized advice and a comprehensive assessment of your health.
 						</p>
 					</div>
 					<hr/>

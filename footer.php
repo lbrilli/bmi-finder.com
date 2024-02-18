@@ -1,7 +1,7 @@
 <div class="footer">
 	<div class="slide-inner">
 		<a href="<?php echo __DIR__; ?>">Home</a> <a href="<?php echo $host; ?>interpretation/">Interpreting BMI results</a>
-		<a href="<?php echo $host; ?>myths/">BMI: Beyond the Myths</a>  <a href="<?php echo $host; ?>limitations/">Limitations of BMI</a>
+		<a href="<?php echo $host; ?>myths/">Myths about BMI</a>  <a href="<?php echo $host; ?>limitations/">Limitations of BMI</a>
 		<a href="<?php echo $host; ?>fuel-your-life/">Fuel Your Life: Nutrition Basics and Choices</a>
 		<a href="<?php echo $host; ?>couch-potato/">From Couch Potato to Champion: Real People, Real Transformations</a>
 		<a href="<?php echo $host; ?>mind-and-body/">Mind and Body: The connection between mental health and well-being</a>
