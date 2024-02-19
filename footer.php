@@ -4,7 +4,7 @@
 		<a href="<?php echo $host; ?>myths/">Myths about BMI</a>  <a href="<?php echo $host; ?>limitations/">Limitations of BMI</a>
 		<a href="<?php echo $host; ?>fuel-your-life/">Fueling your life with the right nutrition</a>
 		<a href="<?php echo $host; ?>real-people/">Real People, Real Transformations</a>
-		<a href="<?php echo $host; ?>mind-and-body/">Mind and Body: The connection between mental health and well-being</a>
+		<a href="<?php echo $host; ?>mind-and-body/">Exploring the Connection between Mental Health and Physical Well-being</a>
 		<a href="<?php echo $host; ?>body-positivity/">Ditch the Scales, Embrace the Whole You</a>
 		<a href="<?php echo $host; ?>weight-management/">Healthy weight management</a>
 		<a href="<?php echo $host; ?>quick-easy-recipes/">Quick and Easy Weeknight Meals</a>

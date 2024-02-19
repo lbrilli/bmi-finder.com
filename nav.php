@@ -15,7 +15,7 @@
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>real-people/">Real People, Real Transformations</a>
 		<div class="nav-divider"></div>
-		<a class="nav-item" href="<?php echo $host; ?>mind-and-body/">Mind and Body: The connection between mental health and well-being</a>
+		<a class="nav-item" href="<?php echo $host; ?>mind-and-body/">Exploring the Connection between Mental Health and Physical Well-being</a>
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>body-positivity/">Ditch the Scales, Embrace the Whole You</a>
 		<div class="nav-divider"></div>
