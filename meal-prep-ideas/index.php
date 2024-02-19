@@ -212,7 +212,7 @@
 					<h1>Meal Prep Ideas:</h1>
 					<div class="section minor">
 						<h3 class="subtitle-minor">Sheet Pan Roasted Salmon with Butternut Squash & Brussels Sprouts:</h3>
-						<p class="subtext-minor">This oven-roasted meal preps beautifully and offers balanced nutrition. Salmon bakes with sweet butternut squash and savory Brussels sprouts for a satisfying and flavorful dish.
+						<p class="subtext-minor">This dish roasts in the oven and serves up hearty meal prep that’s nutritionally balanced. A full meal of oven-baked salmon and sweet and savory side dishes of butternut squash and Brussels.
 						</p>
 						<a target="_blank" href="https://joanne-eatswellwithothers.com/2017/09/sheet-pan-brown-sugar-salmon-with-roasted-butternut-squash-and-brussels-sprouts.html"><img src="sheet-pan-roasted-salmon.png" alt="" style="position:relative;width:285px;height:200px;left:40px;"></a>
 					</div>
@@ -221,7 +221,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Quinoa Bowls with Roasted Vegetables & Tahini Dressing:</h3>
-						<p class="subtext-minor">A versatile and customizable meal prep option! Roast your favorite vegetables and assemble bowls with cooked quinoa, protein of choice (grilled chicken, chickpeas, etc.), and a creamy tahini dressing.	
+						<p class="subtext-minor">A roast-to-order meal prep option! Roast your favorite vegetables and scoop cooked quinoa into mason jars with your protein of choice (grilled chicken?) and a tahini dressing that holds up.
 						</p>
 						<a target="_blank" href="https://feelgoodfoodie.net/recipe/roasted-vegetable-quinoa-bowl/"><img src="quinoa-bowls.png" alt="" style="position:relative;width:240px;height:200p;left:20px;"></a>
 					</div>
@@ -230,7 +230,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Slow Cooker Chicken Chili:</h3>
-						<p class="subtext-minor">This hearty chili is perfect for meal prep and freezes well. Packed with protein, fiber, and nutrients, it's a satisfying and budget-friendly option.			
+						<p class="subtext-minor">This is a meal-prep friendly hearty chili- with its protein, fiber and nutrients, it is one of our favorite filling and economical go-tos. 
 						</p>
 						<a target="_blank" href="https://www.plainchicken.com/slow-cooker-chicken-chili/"><img src="slow-cooker-chili.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -239,7 +239,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Mason Jar Salads:</h3>
-						<p class="subtext-minor">Prep individual salads in mason jars for grab-and-go lunches. Layer greens, protein, vegetables, and dressing separately, ensuring freshness until lunchtime.	
+						<p class="subtext-minor">Prep grab-and-go single-serve salads in mason jars. Layer greens, protein and veggies in the bottom of a mason jar, adding dressing on top. This will keep everything fresh until lunchtime.
 						</p>
 						<a target="_blank" href="https://www.eatyourselfskinny.com/mediterranean-mason-jar-salads/"><img src="mason-jar-salads.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -248,7 +248,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Baked Chicken & Veggie Quinoa Bowls:</h3>
-						<p class="subtext-minor">Roast chicken and vegetables on a sheet pan for easy prep. Assemble bowls with cooked quinoa, protein, veggies, and a simple sauce for a complete and balanced meal.	
+						<p class="subtext-minor">Roast chicken and vegetables on a sheet pan; combine cooked quinoa, protein, vegetables and a simple sauce for a complete meal; place one or two slices of bread on a plate and top with beans and avocado.
 						</p>
 						<a target="_blank" href="https://www.foodnetwork.com/recipes/roasted-vegetable-and-chicken-quinoa-bowls-for-two-3414526"><img src="baked-chicken-veggie.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -257,7 +257,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Overnight Oats with Berries & Chia Seeds:</h3>
-						<p class="subtext-minor">This healthy and convenient breakfast requires minimal prep. Combine rolled oats, milk, chia seeds, and your favorite toppings in jars the night before, and enjoy a grab-and-go breakfast all week.	
+						<p class="subtext-minor">A nutritious, fuss-free breakfast in a cup. Rolled oats, milk, chia seeds, and your favorite toppings mixed in a jar the night before means you’ll have a grab-and-go breakfast for the whole week.
 						</p>
 						<a target="_blank" href="https://www.jaroflemons.com/easy-blueberry-chia-overnight-oats/"><img src="overnight-oats.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
