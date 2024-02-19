@@ -13,6 +13,8 @@
 		<div class="nav-header">Health and wellness</div>
 		<a class="nav-item" href="<?php echo $host; ?>fuel-your-life/">Fueling your life with the right nutrition</a>
 		<div class="nav-divider"></div>
+		<a class="nav-item" href="<?php echo $host; ?>what-is-motivation/">What is Motivation?</a>
+		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>real-people/">Real People, Real Transformations</a>
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>mind-and-body/">Exploring the Connection between Mental Health and Physical Well-being</a>

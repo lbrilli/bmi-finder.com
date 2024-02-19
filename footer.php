@@ -3,6 +3,7 @@
 		<a href="<?php echo __DIR__; ?>">Home</a> <a href="<?php echo $host; ?>interpretation/">Interpreting BMI results</a>
 		<a href="<?php echo $host; ?>myths/">Myths about BMI</a>  <a href="<?php echo $host; ?>limitations/">Limitations of BMI</a>
 		<a href="<?php echo $host; ?>fuel-your-life/">Fueling your life with the right nutrition</a>
+		<a href="<?php echo $host; ?>what-is-motivation/">What is Motivation?</a>
 		<a href="<?php echo $host; ?>real-people/">Real People, Real Transformations</a>
 		<a href="<?php echo $host; ?>mind-and-body/">Exploring the Connection between Mental Health and Physical Well-being</a>
 		<a href="<?php echo $host; ?>body-positivity/">Body Positivity and Self-Acceptance</a>
