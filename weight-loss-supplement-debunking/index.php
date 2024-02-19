@@ -211,7 +211,7 @@
 				<div class="content-inner">
 					<h1>Why you shouldn’t use weight loss supplements</h1>
 					<br>
-					<p>Few of us can resist the allure of easy, effortless, weight loss so it comes as no surprise that the weight-loss-supplement industry responds with great enthusiasm. However, before you spend your hard-earned cash on the latest ‘miracle pill’, let’s take a look at some of the science behind popular weight-loss supplements and their marketing claims.</p>
+					<p class="subtext-minor">Few of us can resist the allure of easy, effortless, weight loss so it comes as no surprise that the weight-loss-supplement industry responds with great enthusiasm. However, before you spend your hard-earned cash on the latest ‘miracle pill’, let’s take a look at some of the science behind popular weight-loss supplements and their marketing claims.</p>
 					<div class="section minor">
 						<h3 class="subtitle-minor">Myth 1: ‘Fat Burners’ Melt Away the Pounds:</h3>
 						<p class="subtext-minor">Many supplements advertise fat-burning effects from ingredients such as green tea extract, caffeine, or L-carnitine. In reality, these effects are minimal and short-lived. While they may slightly increase metabolism, any initial benefits quickly disappear and don’t lead to sustained weight loss.
