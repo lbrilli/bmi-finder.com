@@ -8,7 +8,7 @@
 		<script async src="https://cdn.ampproject.org/v0.js"></script>
 		<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 		<!-- Header Meta Tags -->
-		<title><?php echo $websitename; ?></title>
+		<title>Quick and easy weeknight meals</title>
 		<meta name="robots" content="index,follow" />
 		<meta name="description" content="<?php echo $description; ?>"/>
 		<meta name="keywords" content="<?php echo $keywords; ?>"/>
@@ -212,7 +212,7 @@
 					<h1>Quick & Easy Weeknight Meals</h1>
 					<div class="section minor">
 						<h3 class="subtitle-minor">One-Pan Lemon Garlic Shrimp & Asparagus:</h3>
-						<p class="subtext-minor">This vibrant, flavorful dish comes together in just 20 minutes! Shrimp cooks quickly, infusing with the zesty lemon-garlic sauce and tender asparagus. Perfect over rice or quinoa.
+						<p class="subtext-minor">This healthy and delicious dish is ready to eat in 20 minutes – shrimp cooks in 3 to 5 minutes and comes together with lemon-garlic sauce and delicate asparagus cooked to tenderness. Serve over rice or quinoa.
 						</p>
 						<a target="_blank" href="https://www.eatyourselfskinny.com/sheet-pan-lemon-garlic-shrimp-and-asparagus/"><img src="one-pan.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -221,7 +221,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Creamy Tomato Tortilla Soup:</h3>
-						<p class="subtext-minor"> A comforting classic with a Mexican twist! Canned tomatoes, beans, and spices simmer into a creamy broth, topped with crispy tortilla strips and melty cheese. Ready in 30 minutes! 					
+						<p class="subtext-minor">Treat yourself to a creamy veggie soup with a Mexican twist! Canned tomatoes, beans and spices are quickly simmered into a silky broth, topped with crispy tortilla strips and melty cheese. Ready in half an hour. 			
 						</p>
 						<a target="_blank" href="https://www.galonamission.com/one-pot-creamy-tomato-tortellini-soup/"><img src="creamy-tomato-tortilla.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -230,7 +230,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Spicy Chicken Stir-Fry with Veggies:</h3>
-						<p class="subtext-minor">Packed with protein and veggies, this customizable stir-fry is a weeknight win. Use your favorite stir-fry vegetables and adjust the spice level to your preference. Serve over rice or noodles.				
+						<p class="subtext-minor">Protein‑and‑veg­­-packed stir-fry, it’s all about you. Use whatever stir-fry vegetables you have handy, throw it all together, and serve over rice or rice noodles. Takes 30 minutes or less!		
 						</p>
 						<a target="_blank" href="https://karylskulinarykrusade.com/recipe-spicy-chicken-vegetable-stir-fry/"><img src="stir-fry-veggies.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -239,7 +239,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">15-Minute Chicken Fajitas:</h3>
-						<p class="subtext-minor">Marinated chicken strips sizzle on the stovetop with colorful peppers and onions. Serve on warm tortillas with your favorite fajita toppings for a fun and flavorful meal.
+						<p class="subtext-minor">Marinate chicken strips and sautée with peppers and onions. Serve over heated tortillas, and finish with your favorite fajita fixings. I like peppers, tomatoes, and onions.
 						</p>
 						<a target="_blank" href="https://aspoonfulofsimple.com/2019/06/03/15-minute-chicken-fajitas/"><img src="15-min-fajitas.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -248,7 +248,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Tuscan White Bean Soup:</h3>
-						<p class="subtext-minor">This hearty soup simmered with kale, cannellini beans, and Italian sausage is ready in under 30 minutes. Perfect for a cozy and satisfying weeknight dinner.
+						<p class="subtext-minor">And believe it or not, this chunky kale, cannellini bean and Italian sausage soup springs to steam in under 30 minutes, an ideal weeknight supper.
 						</p>
 						<a target="_blank" href="https://eatwithclarity.com/white-bean-soup/"><img src="tuscan-white-bean.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -257,7 +257,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Shrimp Scampi with Zucchini Noodles:</h3>
-						<p class="subtext-minor">A lighter twist on a classic! Use spiralized zucchini noodles instead of pasta for a low-carb option, tossed in a garlicky butter sauce with plump shrimp.	
+						<p class="subtext-minor">A lighter remix of a classic! Use spiralized zucchini noodles in lieu of pasta, and douse with buttery garlicky shrimp for a low-carb alternative.
 						</p>
 						<a target="_blank" href="https://www.wellplated.com/healthy-shrimp-scampi/"><img src="shrimp-scampi.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
