@@ -225,7 +225,7 @@
 						<p class="subtext-minor">But how do we accomplish this robust health – double wellness? Here are some suggestions: 
 							<br>
 							<br>
-							<ol>
+							<ul>
 								<li>Treat others with dignity. </li>
 								<li>Reconnect with the richness of life: the vibrant colors in autumn, the crunch of snow underfoot, the smoothness of stones on the beach, the smell of freshly mown grass, or the laughter of a toddler. </li>
 								<li>Get off your butt and take up some exercise: walk, swim, dance, ride a bike, play tennis or golf. Physical movement promotes psychological well-being. </li>
@@ -238,7 +238,7 @@
 								<li>Socialize: Social interaction is good for mental health. See family and friends, join a club or group, or volunteer in your community.</li>
 								<li>Breathe deeply and relax: Using mindfulness strategies such as meditation and deep breathing can help you deal with stress and offer you some peace. </li>
 								<li>Talk to a pro: If you are grappling with mental health issues, don’t suffer in silence. Seeing a therapist can provide a supportive space, help you navigate your issues, and offer critical treatment. </li>
-							</ol>		
+							</ul>		
 							<br>
 							<b>Remember:</b> Caring for your mental health is as important as caring for your physical health. Try to incorporate these tips into your daily life for a healthy mind, body, and lifestyle. 
 						</p>
@@ -252,7 +252,6 @@
 						<br>
 						Here are some resources to help you find professional help:
 						<br>
-						<br>
 						<ul>
 							<li><b>National Alliance on Mental Illness (NAMI):</b> 1-800-950-NAMI (6264)</li>
 							<li><b>MentalHealth.gov:</b> <a target="_blank" href="https://mentalhealthtx.org/"> https://mentalhealthtx.org/</a> </li>
@@ -260,7 +259,6 @@
 							<li><b>The Trevor Project:</b> 1-866-488-7386</li>
 							<li><b>Crisis Text Line:</b> Text HOME to 741741</li>
 						</ul>
-						<br>
 						And you aren’t on your own. There is a real benefit in looking after your mental health, and by doing so you contribute to making a happier, healthier, more appealing world to live in.
 						</p>
 					</div>
