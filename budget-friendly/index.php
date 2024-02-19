@@ -212,7 +212,7 @@
 					<h1>Budget-Friendly Recipes</h1>
 					<div class="section minor">
 						<h3 class="subtitle-minor">Pasta Primavera with Lentil Sausage:</h3>
-						<p class="subtext-minor">This vegetarian twist on pasta primavera uses budget-friendly lentil sausage for a protein punch. Fresh seasonal vegetables and a simple garlic-lemon sauce make it light and flavorful.
+						<p class="subtext-minor">This vegan, gluten-free, dairy-free pasta primavera features the protein power of budget-savvy lentil sausage, bathing seasonal fresh vegetables in a light sauce of garlic and lemon.
 						</p>
 						<a target="_blank" href="https://itsavegworldafterall.com/lentil-pasta-primavera/"><img src="pasta-primavera.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -221,7 +221,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Lentil Soup with Greens & Lemon:</h3>
-						<p class="subtext-minor">This protein-rich soup is packed with flavor and budget-friendly ingredients. Lentils provide fiber and protein, while greens add vitamins and fiber. A squeeze of lemon brightens the flavors.	
+						<p class="subtext-minor">A budget helps, by giving this frugal fare plenty of texture and punchy flavors. Protein-rich lentils and fiber-filled greens are unbeatable healthy staples and later, a squeeze of lemon on the soup really makes the flavors dance (try adding a sprinkle of cumin, coriander and lemon zest while it cooks if you like).
 						</p>
 						<a target="_blank" href="https://www.inspiredtaste.net/40400/lentil-soup/"><img src="lentil-soup.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -230,7 +230,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Black Bean Burgers:</h3>
-						<p class="subtext-minor">These homemade burgers are a cost-effective and delicious alternative to beef burgers. Black beans, spices, and breadcrumbs combine for a satisfying patty, served on whole-wheat buns with your favorite toppings.			
+						<p class="subtext-minor">Perfect budget-friendly alternative to beef-burger! This homemade burger patty is filled with black beans, spices and breadcrumbs! Serve with buns and toppings of your choice.
 						</p>
 						<a target="_blank" href="https://sallysbakingaddiction.com/best-black-bean-burgers/"><img src="black-bean-burger.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -239,7 +239,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Spiced Chickpea Curry with Rice:</h3>
-						<p class="subtext-minor">This protein-packed and flavorful curry is made with budget-friendly chickpeas, coconut milk, and warming spices. Serve over rice for a satisfying and economical meal.	
+						<p class="subtext-minor">Rich in protein and spice, this easy, creamy, Chickpea Curry is an economical meal of chickpeas, coconut milk, and warming spices with the fresh taste of cilantro and lime. Serve over rice. 
 						</p>
 						<a target="_blank" href="https://afrovitalityeats.com/spicy-chickpea-curry-with-rice/"><img src="spiced-chickpea-curry.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -248,7 +248,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">One-Pot Tomato & Sausage Pasta:</h3>
-						<p class="subtext-minor">This simple yet delicious dish combines pasta, sausage, and canned tomatoes in one pot for minimal cleanup. Customize with your favorite vegetables and herbs.	
+						<p class="subtext-minor">This one-pot dish of pasta, sausage and canned tomatoes is easy to prepare, delicious, and requires only one pot for cleanup. Use your favorite vegetables and herbs.
 						</p>
 						<a target="_blank" href="https://www.twopeasandtheirpod.com/one-pot-sausage-pasta/"><img src="onepot-tomato-sausage-pasta.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
@@ -257,7 +257,7 @@
 				<div class="content-inner">
 					<div class="section minor">
 						<h3 class="subtitle-minor">Tuna Salad Sandwiches with Whole-Wheat Bread:</h3>
-						<p class="subtext-minor">A classic lunch option made budget-friendly with canned tuna, mayo, and your favorite vegetables. Opt for whole-wheat bread for added fiber and nutrients.	
+						<p class="subtext-minor">The classic lunch gone budget friendly, canned tuna, mayo and whatever vegetables are your favorite. Contains whole-wheat bread for fiber and essential nutrients.
 						</p>
 						<a target="_blank" href="https://www.centralmarket.com/product/central-market-tuna-salad-sandwich-on-whole-wheat-bread-ea/1159029"><img src="tuna-salad.png" alt="" style="width:200px;height:200px;"></a>
 					</div>
