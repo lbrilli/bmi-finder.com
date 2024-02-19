@@ -8,7 +8,7 @@
 		<script async src="https://cdn.ampproject.org/v0.js"></script>
 		<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 		<!-- Header Meta Tags -->
-		<title><?php echo $websitename; ?></title>
+		<title>Dietary-specific Recipes</title>
 		<meta name="robots" content="index,follow" />
 		<meta name="description" content="<?php echo $description; ?>"/>
 		<meta name="keywords" content="<?php echo $keywords; ?>"/>
@@ -214,13 +214,13 @@
 						<h3 class="subtitle-minor">Vegetarian</h3>
 						<br>
 						<h4>Thai Curry Noodle Bowls:</h4>
-						<p class="subtext-minor">These flavorful bowls are bursting with veggies, tofu, and a creamy coconut curry sauce. Served over rice noodles, it's a satisfying and protein-packed option.
+						<p class="subtext-minor">This supper is super-chock-full of veggies, plus tofu and coconut curry sauce, all over rice noodles – and it’s protein-packed to boot.
 						<br>
 						<a target="_blank" href="https://iheartvegetables.com/coconut-curry-noodle-bowl-2/"><img src="thai-curry-bowl.png" alt="" style="width:200px;height:200px;"></a>
 						</p>
 						<br>
 						<h4>Sweet Potato Black Bean Burgers:</h4>
-						<p class="subtext-minor">These flavorful burgers are packed with protein and fiber from sweet potatoes and black beans. Topped with avocado and a creamy sauce, they're a satisfying and delicious vegetarian option.
+						<p class="subtext-minor">They’re meaty burgers in disguise with the muscle-building protein and complex carbs of sweet potatoes and black beans, plus creamy avocado and sauce.
 						<br>
 						<a target="_blank" href="https://www.eatingwell.com/recipe/278513/sweet-potato-black-bean-burgers/"><img src="sweet-potato-burger.png" alt="" style="width:200px;height:200px;"></a>
 						</p>
@@ -232,13 +232,13 @@
 						<h3 class="subtitle-minor">Vegan</h3>
 						<br>
 						<h4>Vegan Buddha Bowl:</h4>
-						<p class="subtext-minor">This colorful and customizable bowl offers a balanced blend of protein, healthy fats, and fiber. Quinoa or brown rice forms the base, topped with roasted vegetables, chickpeas, avocado, and a tangy tahini dressing.
+						<p class="subtext-minor">Here’s a colorful, satisfying bowl that packs in the protein, good fats and fiber: the superfood grain quinoa or wholegrain brown rice is the base, with roast vegetables, chickpeas, avocado and some tangy tahini dressing on top.
 						<br>	
 						<a target="_blank" href="https://wellandfull.com/2020/02/the-vegan-buddha-bowl/"><img src="vegan-buddha-bowl.png" alt="" style="width:200px;height:200px;"></a>
 						</p>
 						<br>
 						<h4>Lentil Shepherd's Pie:</h4>
-						<p class="subtext-minor">This plant-based twist on a classic comfort food is made with lentils, vegetables, and a creamy mashed potato topping. Perfect for a satisfying and hearty vegan meal.
+						<p class="subtext-minor">Here is a lentil bolognese, a plant-based take on a comforting family dinner classic. This wholesome dish features a hearty lentil sauce, vegetables and parsley, topped with smooth, creamy mashed potato and a crispy layer of fried sage. This hearty meal will satisfy your craving for something rich and comforting, leaving you feeling refreshed and energized.
 						<br>	
 						<a target="_blank" href="https://www.spendwithpennies.com/easy-lentil-shepherds-pie-vegetarian/"><img src="lentil-shephards-pie.png" alt="" style="width:200px;height:200px;"></a>
 						</p>
@@ -250,13 +250,13 @@
 						<h3 class="subtitle-minor">Gluten-Free</h3>
 						<br>
 						<h4>Salmon with Coconut Curry Sauce & Spiralized Vegetables:</h4>
-						<p class="subtext-minor">This gluten-free and flavorful dish pairs perfectly cooked salmon with a creamy coconut curry sauce and spiralized vegetables for a satisfying and nutrient-rich meal.
+						<p class="subtext-minor">This gluten-free, dairy-free, hearty dish combines cooked salmon with a custard-like curry made with coconut milk and spiralised vegetables for an ultra-satisfying, nutrient-packed meal. 
 						<br>	
 						<a target="_blank" href="https://www.saltandlavender.com/salmon-coconut-curry/"><img src="salmon-with-coconut-curry.png" alt="" style="position:relative;width:250px;height:200px;left:25px;"></a>
 						</p>
 						<br>
 						<h4>Chicken Piccata with Almond Flour Crust:</h4>
-						<p class="subtext-minor">This gluten-free dish features tender chicken coated in a flavorful lemon-caper sauce. Use almond flour instead of breadcrumbs for a crispy and delicious crust.
+						<p class="subtext-minor">With tender chicken coated in a flavourful lemon-caper sauce — and breaded with almond flour instead of breadcrumbs — there are plenty of reasons to go gaga over this gluten-free dish. 
 						<br>	
 						<a target="_blank" href="https://www.foodandwine.com/recipes/almond-flour-crusted-chicken-piccata"><img src="chicken-piccata.png" alt="" style="width:200px;height:200px;"></a>
 						</p>
@@ -268,13 +268,13 @@
 						<h3 class="subtitle-minor">Keto</h3>
 						<br>
 						<h4>Cheesy Zucchini Fritters with Avocado Crema:</h4>
-						<p class="subtext-minor">These low-carb fritters are made with grated zucchini, almond flour, and cheese, offering a crispy and satisfying alternative to potato pancakes. Enjoy them with a dollop of creamy avocado crema for added flavor and fat.
+						<p class="subtext-minor">These wonderful little flattened objects made primarily of grated zucchini, almond flour and cheese can be used as satisfying, low-carb replacements for potato pancakes. Usually, such a delicious and crunchy thing like this would be served with fatty, tangy sour cream but to keep it on the healthy side, serve it with avocado crema instead.
 						<br>	
 						<a target="_blank" href="https://hipfoodiemom.com/2019/05/20/zucchini-fritters-with-avocado-crema-video/"><img src="cheesy-fritters.png" alt="" style="width:200px;height:200px;"></a>
 						</p>
 						<br>
 						<h4>Cauliflower Fried "Rice" Bowl with Teriyaki Shrimp:</h4>
-						<p class="subtext-minor">This low-carb bowl uses cauliflower rice instead of regular rice, topped with flavorful teriyaki shrimp and your favorite keto-friendly vegetables.
+						<p class="subtext-minor">This low carb meal features cauli-rice in place of regular rice, teriyaki shrimp and broccoli, spinach and other favorite veggies on keto.
 						<br>	
 						<a target="_blank" href="https://www.jessicagavin.com/shrimp-fried-cauliflower-rice-bowl/"><img src="cauliflower-fried-rice.png" alt="" style="position:relative;width:215px;px;height:200px;left:7.5px;"></a>
 						</p>
