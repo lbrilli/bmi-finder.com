@@ -214,15 +214,21 @@
 						<p class="subtext-minor">
 							The field formerly known as health and wellness is undergoing a radical evolution with advances in technology. It affects how we care for ourselves, how we manage chronic ailments, how we prevent illness – and, increasingly, how we treat it. So buckle up, because the future of disease-free living is going to be intensely interactive, incredibly personalized, and full of promise. 
 						<br>
+						<br>
 							Forget treating everybody the same! In the ‘old world’ of medicine a clinical trial proven to reduce the risk of heart disease by 12 percent would be irrelevant for those of us who ‘fall outside the bell curve.’ In the new world of precision medicine, you might not benefit from all treatments on the market, but you can expect a much better idea of if a treatment is right for you. 
+						<br>
 						<br>
 							Advances in measuring your genetic makeup, gut microbiome and lifestyle can help you prevent or reduce your risk of disease, maintain a healthier body weight, and be happier. We envision a future where successful genetic tests predict your susceptibility to disease, so you can do something about your predisposition, and where personalized nutrition recommendations are based on your gut microbiome, so your diet is specifically tailored towards optimal outcomes. Won’t that be an amazing way to combat obesity and diabetes? The anticipation that we could all soon benefit from precision medicine is already fuelling innovation in the nutrition and food industry.
 						<br>
+						<br>
 							We are beginning to see the arrival of wearable devices. Fitness trackers are already accumulating reams of health sensor data; smartwatches expand this with their own temperature and heart-rate readings. Future versions will track biomarkers of health in new ways. Smart patches could manage diabetes better by providing in-the-moment blood sugar monitoring. Skin-like biosensors might continuously measure cortisol or epinephrine levels to better understand stress reactivity, and could be used to design stress-reduction methods to improve weight loss.
+						<br>
 						<br>
 							Weight loss is getting much easier. You can now consult your doctors or even dietitians via telehealth from home. You used to have to either anxiously wait to be seen by a doctor in a specialized clinic, or make awkward visits to your family doctor. This would make diet, lifestyle, or weight-loss consultations harder. With telehealth, that is a thing of the past!
 						<br>
+						<br>
 							While all these developments hold promise, they also present issues – data privacy is at the forefront, access to these technologies is not equitable, and there are some aspects of medicine and healthcare that should never be delegated to machines. There is room for technology alongside personal interactions, not instead of them. 
+						<br>
 						<br>
 							In short, the future of health – and wellness – is bright. From a wealth of new diagnostic tests that allow us to get really granular with personalized medicine, to wearable and fitness devices that can empower us to make the changes necessary to stay fit, to telehealth technology that helps us access providers and services regardless of location or limited mobility – the possibilities are immense. The bottom line is this: technology is a tool. What we really have here is a collection of tools – designed to help you better manage your weight, increase your wellbeing, and live longer. But the power isn’t coming from the tools. The power will come from you: empowered to make the choices that will lead to better health. So pay attention, embrace change, and step boldly into the future of wellness – where you are at the center.
 						</p>
