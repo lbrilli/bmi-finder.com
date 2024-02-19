@@ -7,6 +7,7 @@
 		<a href="<?php echo $host; ?>mind-and-body/">Exploring the Connection between Mental Health and Physical Well-being</a>
 		<a href="<?php echo $host; ?>body-positivity/">Body Positivity and Self-Acceptance</a>
 		<a href="<?php echo $host; ?>weight-management/">Healthy weight management</a>
+		<a href="<?php echo $host; ?>weight-loss-supplement-debunking">Why you shouldn’t use weight loss supplements</a>
 		<a href="<?php echo $host; ?>quick-easy-recipes/">Quick and Easy Weeknight Meals</a>
 		<a href="<?php echo $host; ?>meal-prep-ideas/">Meal Prep Ideas</a>
 		<a href="<?php echo $host; ?>budget-friendly/">Budget-Friendly Options</a>
