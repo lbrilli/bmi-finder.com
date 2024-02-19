@@ -25,6 +25,8 @@
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>the-future">The future of health and wellness starts now</a>
 		<div class="nav-divider"></div>
+		<a class="nav-item" href="<?php echo $host; ?>social-media-impact">How Social Media Warps Our Body Image (and What We Can Do About It)</a>
+		<div class="nav-divider"></div>
 		<div class="nav-header">Recipes for Inspiration</div>
 		<a class="nav-item" href="<?php echo $host; ?>quick-easy-recipes/">Quick and Easy Weeknight Meals</a>
 		<div class="nav-divider"></div>
