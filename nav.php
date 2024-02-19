@@ -17,7 +17,7 @@
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>mind-and-body/">Exploring the Connection between Mental Health and Physical Well-being</a>
 		<div class="nav-divider"></div>
-		<a class="nav-item" href="<?php echo $host; ?>body-positivity/">Ditch the Scales, Embrace the Whole You</a>
+		<a class="nav-item" href="<?php echo $host; ?>body-positivity/">Body Positivity and Self-Acceptance</a>
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>weight-management/">Healthy Weight Management</a>
 		<div class="nav-divider"></div>

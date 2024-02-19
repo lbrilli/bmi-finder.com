@@ -8,7 +8,7 @@
 		<script async src="https://cdn.ampproject.org/v0.js"></script>
 		<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 		<!-- Header Meta Tags -->
-		<title><?php echo $websitename; ?></title>
+		<title>Body Positivity and Self-Acceptance</title>
 		<meta name="robots" content="index,follow" />
 		<meta name="description" content="<?php echo $description; ?>"/>
 		<meta name="keywords" content="<?php echo $keywords; ?>"/>
@@ -209,31 +209,32 @@
 						<!-- This is where your 300x250 top ad code from Adsense goes -->
 				</div>
 				<div class="content-inner">
-					<h1>Ditch the Scales, Embrace the Whole You: A Journey to Body Positivity and Self-Acceptance</h1>
+					<h1>Body Positivity and Self-Acceptance</h1>
 					<div class="section minor">
-					<p>In a world fixated on appearance, it's easy to get caught up in the numbers on the scale, forgetting the incredible things our bodies do every day. Let's ditch the unhealthy obsession with weight and embark on a journey towards <b> body positivity </b> and <b> self-acceptance,</b> focusing on <b>overall health and well-being.</b>
+					<p>At a time when we are obsessed by appearances and seduced by the power of numbers on the scale, it’s all too easy to forget just how amazing a body is, and how much it is truly capable of. Let’s put an end to the toxic focus on weight and embrace true body positivity and self-acceptance as part of a wider, healthier relationship with life. 
 					<br>
 					<br>
 					<h3 class="subtitle-minor">Remember, you are more than a number:</h3>
 						<p class="subtext-minor">
-							<ul>
-								<li><b>Your worth is not defined by your size or shape.</b> You are valuable for your unique personality, talents, and contributions to the world.</li>
-								<li><b>Focus on what your body can do, not how it looks.</b> Celebrate your strength, mobility, and resilience. Can you run, jump, laugh, hug? That's amazing!</li>
-								<li><b>Appreciate the amazing machine that carries you through life.</b> Nourish it with nutritious food, move it with activities you enjoy, and treat it with kindness.</li>
-							</ul>	
+						It doesn’t matter what size or shape your body is. Your worth as a person comes from who you are – your unique personality, talents, goals, and contributions to the world. 
+						<br>
+						And instead of obsessing about your physical attributes, focus on what you can DO with your body (not what it looks like). Putting your sweaty hands in the air is a thing of beauty. Moving a brick. Whooping with pleasure. Or comforting a crying child. Small miracles – thank you! 
+						<br>
+						But, seriously, take care of the amazing machine we call your body: give it good food, move it regularly with whatever activities you like the most, and take care of it in good faith. 
 						</p>
 					</div>
 					<hr/>
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor">Shifting the focus to well-being:</h3>
+						<h3 class="subtitle-minor">Shift focus to well-being:</h3>
 						<p class="subtext-minor">
+						What do you believe health is? It’s not just the absence of disease; it's vibrant, energetic, feeling well, feeling useful, feeling able to do that work that matters to you, that is what health is.
+						<br>
 							<ul>
-								<li><b>Define health in your own terms.</b> It's not just about the absence of disease, but about feeling energized, vibrant, and capable of doing what matters to you.</li>
-								<li><b>Move your body for joy, not just weight loss.</b> Find activities you genuinely enjoy, whether it's dancing, swimming, or simply walking in nature.</li>
-								<li><b>Nourish your body with intention.</b> Choose whole, unprocessed foods that fuel your energy and make you feel good.</li>
-								<li><b>Listen to your body's needs.</b> Get enough sleep, manage stress, and prioritize activities that bring you peace and joy.</li>
+								<li>Don’t move your body for weight loss: move it for joy. Choose activities you like, whether it’s dancing, swimming, or just walking in a beautiful place.</li>
+								<li>Feed your body intentionally. Eat whole, unprocessed foods to fuel your energy and make you feel good.</li>
+								<li>Listen to your body. Sleep, reduce stress, do things that calm your nervous system. </li>
 							</ul>				
 						</p>
 					</div>
@@ -244,9 +245,9 @@
 						<h3 class="subtitle-minor">Embrace the beautiful diversity of bodies:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b>Challenge unrealistic beauty standards.</b> Recognize that every body is unique and deserves respect.</li>
-								<li><b>Surround yourself with positive influences.</b> Seek out media and communities that celebrate body diversity and inclusivity.</li>
-								<li><b>Challenge negative self-talk.</b> Replace critical thoughts with affirmations of self-compassion and appreciation.</li>
+								<li>Challenge unrealistic beauty standards. Recognize that every body is unique and deserves respect.</li>
+								<li>Build your virtual village. Ask for support from friends and family. Surround yourself with media and communities that promote body diversity and celebrate fitness in all sizes. </li>
+								<li>Challenge negative self-talk. Replace critical thoughts with affirmations of self-compassion and appreciation.</li>
 							</ul>				
 						</p>
 					</div>
@@ -257,8 +258,8 @@
 						<h3 class="subtitle-minor">Remember, the journey to body positivity is a marathon, not a sprint:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b>Be kind to yourself.</b> There will be ups and downs. Celebrate your progress, forgive yourself for setbacks, and keep moving forward.</li>
-								<li><b>Seek support.</b> Talk to a therapist, join a body-positive community, or connect with loved ones who encourage your journey.</li>
+								<li>Be gentle with yourself. It’s to be expected that things will get better and sometimes worse, so celebrate your triumphs, forgive yourself your slips – and never give up.</li>
+								<li>Surround yourself with support. See a therapist, join a body-positive community or circle of supportive individuals who are willing to be a part of your journey. </li>
 							</ul>				
 						</p>
 					</div>
@@ -266,15 +267,16 @@
 				</div>
 				<div class="content-inner">
 					<div class="section minor">
-						<h3 class="subtitle-minor">You are worthy of love and acceptance, just as you are. Let's move beyond the scale and embrace the incredible journey of being human, in all its beautiful diversity.</h3>
-						<h3>Additional Resources:</h3>
+						<h3 class="subtitle-minor">You are awesomely okay as you are. It’s time to get off the scale and rejoice in the glorious adventure of humanity. In all its wonderful variation. </h3>
+						<br>
+						<h3 class="subtitle-minor">Additional Resources:</h3>
 						<p class="subtext-minor">
 							<ul>
 								<li>The National Eating Disorders Association: <a href="https://www.nationaleatingdisorders.org/" target="_blank">https://www.nationaleatingdisorders.org/</a></li>
 								<li>The Body Positive: <a href="https://www.thebodypositive.org/" target="_blank">https://www.thebodypositive.org/</a></li>
 								<li>Love Your Body: <a href="https://now.org/now-foundation/love-your-body/" target="_blank">https://now.org/now-foundation/love-your-body/</a></li>
 							</ul>
-							Remember, you are not alone on this journey. Embrace the power of self-acceptance and celebrate the amazing being you are!
+							Remember, you’re not walking this path alone. Take the self-compassion and confidence boost you need to love the unbelievable person you are!
 						</p>
 					</div>
 					<hr/>
