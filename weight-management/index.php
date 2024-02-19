@@ -8,7 +8,7 @@
 		<script async src="https://cdn.ampproject.org/v0.js"></script>
 		<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 		<!-- Header Meta Tags -->
-		<title><?php echo $websitename; ?></title>
+		<title>Healthy Weight Management</title>
 		<meta name="robots" content="index,follow" />
 		<meta name="description" content="<?php echo $description; ?>"/>
 		<meta name="keywords" content="<?php echo $keywords; ?>"/>
@@ -209,18 +209,18 @@
 						<!-- This is where your 300x250 top ad code from Adsense goes -->
 				</div>
 				<div class="content-inner">
-					<h1>Maintaining a Healthy Weight: A Balanced Approach</h1>
+					<h1>Healthy Weight Management</h1>
 					<div class="section minor">
-						<p>Healthy weight management isn't just about a number on the scale; it's about cultivating a lifestyle that supports your overall well-being. Here are some key aspects to consider:</p>
+						<p>These elements of healthy weight management should be part of a lifestyle that promotes wellness:</p>
 						<br>
 						<h3 class="subtitle-minor">Diet:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b> Balanced approach: </b> Ditch restrictive fad diets and embrace a balanced plate. Focus on whole, unprocessed foods like fruits, vegetables, whole grains, lean protein, and healthy fats.</li>
-								<li><b> Portion control: </b> Be mindful of serving sizes. Use smaller plates, measure ingredients, and listen to your body's hunger and fullness cues.</li>
-								<li><b> Limit processed foods: </b> These are often high in calories, unhealthy fats, sodium, and added sugars, contributing to weight gain and health risks.</li>
-								<li><b> Hydration: </b> Water is essential for overall health and can help with satiety. Aim for at least 8 glasses daily.</li>
-								<li><b> Dietary approaches: </b> Explore options like the Mediterranean diet, rich in fruits, vegetables, and healthy fats, or the DASH diet, focusing on fruits, vegetables, whole grains, and low-fat dairy, known for heart health benefits. Consult a registered dietitian for personalized guidance.</li>
+								<li>Balanced approach: Give up fads or crazy diets, and stick to more of a balanced plate. Focus on whole foods that are minimally processed such as fruits, vegetables, whole grains, lean protein and healthy fats.</li>
+								<li>Portion control: Keep an eye on it. Use smaller plates, weigh your ingredients, and tune into the hunger and fullness signals from your body.</li>
+								<li>Reduce processed foods: These tend to be high in calories, ‘bad’ fats, sodium and added sugars, and are often implicated in weight gain and health problems.</li>
+								<li>Hydration: Drink water to maintain your health and feel more full. Drink at least 8 glasses a day.</li>
+								<li>Overall Dietary approaches: Consider a diet that follows the Mediterranean model – very high in fruits and vegetables, moderate in whole grains, with liberal consumption of nuts, olive oil, legumes, and less red meat. Or maybe the DASH diet – high in fruits and vegetables, low- or no-fat dairy, and low in salt – once acclaimed for its heart benefits. Ask a registered dietician for more information.</li>
 							</ul>
 						</p>
 					<hr/>
@@ -229,10 +229,11 @@
 					<h3 class="subtitle-minor">Exercise:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b> Regular activity: </b> Aim for at least 150 minutes of moderate-intensity aerobic activity or 75 minutes of vigorous-intensity activity weekly. Include strength training twice a week for muscle building and metabolism boost.</li>
-								<li><b> Find activities you enjoy: </b> Walking, running, swimming, dancing, team sports – choose something you find fun and can stick with long-term.</li>
-								<li><b> Start gradually:  </b> Don't overwhelm yourself. Begin with manageable goals and gradually increase intensity and duration.</li>
-								<li><b> Incorporate movement throughout the day: </b> Take the stairs, park farther away, do household chores briskly – every bit counts!</li>
+								<li>Daily activity: Move every three to four hours when sedentary for long periods, stretching occasionally and getting up to walk and view other perspectives. </li>
+								<li>Do it: Get 150 minutes of moderate-intensity aerobic activity or 75 minutes of vigorous-intensity aerobic activity weekly. Muscle applies not just to strength, but to metabolism too. Twice a week, participate in strength-training activities.</li>
+								<li>Pick activities you like: walk, run, swim, dance, team sports — something you like to do that you can stick with in the long-term. </li>
+								<li>Start easy: Use small goals and gradually increase intensity and duration. </li>
+								<li>Make movement part of daily life: walk up stairs, park at the back of the lot, vacuum enthusiastically – it all adds up! </li>
 							</ul>
 						</p>
 					<hr/>
@@ -241,9 +242,9 @@
 					<h3 class="subtitle-minor">Other Essential Factors:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b> Sleep: </b> Aim for 7-8 hours of quality sleep nightly. Poor sleep disrupts hormones that regulate appetite and metabolism, leading to weight gain.</li>
-								<li><b> Stress management: </b> Chronic stress can trigger unhealthy eating habits. Practice relaxation techniques like yoga, meditation, or deep breathing to manage stress effectively.</li>
-								<li><b> Mindful eating: </b> Pay attention to your physical and emotional cues while eating. Avoid distractions like screens and savor your food for better digestion and portion control.</li>
+								<li>Sleep: Get 7-8 hours of good  evesleepry night. Poor sleep alters appetite and metabolism-regulating hormones and promotes weight gain.</li>
+								<li>Coping with stress: Often, we tend to indulge in unhealthy eating when we’re under chronic stress. To feel better and cope with it, learn some calming techniques like yoga, tai chi, meditation or deep breathing. </li>
+								<li>Mindful eating: Tune in to your body’s physical and emotional signals as you eat. First: step away from the screens. Chew slower and savor the taste for better digestion and easier portion control. </li>
 							</ul>
 						</p>
 					<hr/>
@@ -252,12 +253,12 @@
 					<h3 class="subtitle-minor">Remember:</h3>
 						<p class="subtext-minor">
 							<ul>
-								<li><b> Sustainability: </b> Focus on long-term, sustainable lifestyle changes, not quick fixes.</li>
-								<li><b> Individual needs: </b> Consult your doctor or a registered dietitian for personalized advice based on your health and goals.</li>
-								<li><b> Progress, not perfection: </b> Celebrate small wins and don't get discouraged by setbacks. Consistency is key!</li>
+								<li>Sustainability: Focus on long-term, sustainable lifestyle changes, not quick fixes.</li>
+								<li>Individual needs: Based on your health and your personal goals, consult a doctor or a registered dietitian. </li>
+								<li>Progress, not perfection: Small wins are good wins. It’s OK to stumble. You just need to get up again. Keep on keeping on! </li>
 							</ul>
 							<br>
-							By incorporating these tips into your daily routine, you can achieve and maintain a healthy weight for a happier, healthier you!
+							If you follow these tips on a daily basis you can be at a safe and healthy weight for lasting mental and physical health.
 						</p>
 					<hr/>
 				</div>
