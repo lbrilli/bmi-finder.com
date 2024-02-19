@@ -222,14 +222,14 @@
 						<br>
 						<br>
 							Fortunately for you (while unfortunate for your narcissism), this is something you can overcome. By taking care of your mind, you can protect yourself from the deleterious effects of social media on self-esteem. Here are some tips for consuming your media in a healthier, more critical way:
-						<ul>
+						<ul style="indent: 10px;">
 							<li>Pick and choose what you allow into your consciousness by following inspirational accounts, and unfriend those who leave you feeling down. </li>
 							<li>Resist the narrative by challenging images. They’re not real. They’re photoshopped.</li>
 							<li>Look past the picture. Is the caption inspiring? Does the post add something meaningful and positive to your life? If not, unfollow.</li>
 							<li>Log off. Set social media ‘cleanse’ times to re-engage in the real world and allow yourself to enjoy what you can do with your body. </li>
 						</ul>
 							It’s not all just about who you follow. You also need to build a healthy relationship with your online self. Here are a couple tips:
-						<ul>
+						<ul style="indent: 10px;">
 							<li>You were born this way. Celebrate your unique features and talents but do not change them because they are yours and they are beautiful.</li>
 							<li>Practice some self-compassion. If your friend experienced the same thing you’re going through right now, would you tell her: ‘You should have seen this coming! You never eat veggies. Why didn’t you? You’re so stupid.’ Of course not. Instead you’d say: ‘It’s fine, honey; your body is just getting used to these hormones. You’re going to feel much better soon, I promise.’</li>
 							<li>Get help if you feel you need it. If your body image concerns are interfering with your life, ask for help from a therapist or counselor. </li>
