@@ -8,6 +8,7 @@
 		<a href="<?php echo $host; ?>body-positivity/">Body Positivity and Self-Acceptance</a>
 		<a href="<?php echo $host; ?>weight-management/">Healthy weight management</a>
 		<a href="<?php echo $host; ?>weight-loss-supplement-debunking">Why you shouldn’t use weight loss supplements</a>
+		<a href="<?php echo $host; ?>the-future">The future of health and wellness starts now</a>
 		<a href="<?php echo $host; ?>quick-easy-recipes/">Quick and Easy Weeknight Meals</a>
 		<a href="<?php echo $host; ?>meal-prep-ideas/">Meal Prep Ideas</a>
 		<a href="<?php echo $host; ?>budget-friendly/">Budget-Friendly Options</a>

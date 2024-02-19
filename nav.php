@@ -23,6 +23,8 @@
 		<div class="nav-divider"></div>
 		<a class="nav-item" href="<?php echo $host; ?>weight-loss-supplement-debunking">Why you shouldn’t use weight loss supplements</a>
 		<div class="nav-divider"></div>
+		<a class="nav-item" href="<?php echo $host; ?>the-future">The future of health and wellness starts now</a>
+		<div class="nav-divider"></div>
 		<div class="nav-header">Recipes for Inspiration</div>
 		<a class="nav-item" href="<?php echo $host; ?>quick-easy-recipes/">Quick and Easy Weeknight Meals</a>
 		<div class="nav-divider"></div>
