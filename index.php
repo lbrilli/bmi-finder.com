@@ -352,7 +352,6 @@
 							<caption>*These are not definitive labels and do not take into account individual factors. Consult a healthcare professional to learn more about your results.</caption>
 						</div>
 					</div>
-					</div>
 				</div>
 				<div class="content-inner">
 					<!-- This is where we can place supporting content about the tool, FAQ etc. -->
