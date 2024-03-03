@@ -53,7 +53,7 @@
 			.logoimage {vertical-align:middle;margin-right:12px;margin-bottom:3px;}
 			.logotext {vertical-align:middle;}
 			#content {text-align:center;}
-			.content-inner {padding:0 20px;max-width:940px;margin:20px auto 0 auto;width:100%;min-height:500px;}
+			.content-inner {padding:0 20px;max-width:940px;margin:20px auto 0 auto;width:100%;min-height:auto;}
 			.section.major {margin:25px 0 25px 0;}
 			.section.minor {margin:16px 0 16px 0;line-height:1.6em}
 			.subtitle-major {font-size:24px;}
