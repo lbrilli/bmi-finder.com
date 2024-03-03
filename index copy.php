@@ -207,6 +207,9 @@
 			</div>
 			<div id="content">
 				<div id="tool-wrapper">
+					<div class="topad">
+						<!-- This is where your 300x250 top ad code from Adsense goes -->
+					</div>
 					<div id="tool">
 
 					<p>Select Imperial or Metric Units of Measure</p>
@@ -352,6 +355,9 @@
 							<caption>*These are not definitive labels and do not take into account individual factors. Consult a healthcare professional to learn more about your results.</caption>
 						</div>
 					</div>
+						<div class="bottomad">					
+							<!-- This is where your 320x50 bottom ad code from Adsense goes -->
+						</div>
 					</div>
 				</div>
 				<div class="content-inner">
